@@ -1,0 +1,876 @@
+{
+  "id": "3214",
+  "name": "Stephen Hill",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Alnwick Cycling Club",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "34",
+        "time": "0:37:00",
+        "speed": "21.08 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "47",
+        "time": "0:24:21",
+        "speed": "24.64 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 96,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "38",
+        "time": "1:08:47",
+        "speed": "21.81 Mph",
+        "bar": 89,
+        "barPosition": 32,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "67",
+        "time": "0:49:27",
+        "speed": "21.84 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 89,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "67",
+        "time": "1:05:36",
+        "speed": "22.87 Mph",
+        "bar": 65,
+        "barPosition": 56,
+        "vbar": 87,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "79",
+        "time": "3:00:21",
+        "speed": "13.31 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 88,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 89.5,
+    "averagePointsPerMediumRace": 73.33333333333333,
+    "averagePointsPerLongRace": 66,
+    "averagePointsPerRace": 77.5,
+    "remainingShortPoints": 61,
+    "remainingMediumPoints": 140,
+    "remainingLongPoints": 54,
+    "remainingPoints": 255,
+    "predictedFinalPoints": 465,
+    "pointsDirection": 4,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 52
+    },
+    "totals": {
+      "short": 179,
+      "medium": 220,
+      "long": 66,
+      "grand": 465
+    },
+    "predictedFinalPosition": 48
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "34",
+        "time": "0:37:00",
+        "speed": "21.08 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "47",
+        "time": "0:24:21",
+        "speed": "24.64 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 96,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "38",
+        "time": "1:08:47",
+        "speed": "21.81 Mph",
+        "bar": 89,
+        "barPosition": 32,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "67",
+        "time": "0:49:27",
+        "speed": "21.84 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 89,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "67",
+        "time": "1:05:36",
+        "speed": "22.87 Mph",
+        "bar": 65,
+        "barPosition": 56,
+        "vbar": 87,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "79",
+        "time": "3:00:21",
+        "speed": "13.31 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 88,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "averagePointsPerShortRace": 99,
+    "averagePointsPerMediumRace": 92.66666666666667,
+    "averagePointsPerLongRace": 88,
+    "averagePointsPerRace": 94,
+    "remainingShortPoints": 42,
+    "remainingMediumPoints": 82,
+    "remainingLongPoints": 32,
+    "remainingPoints": 156,
+    "predictedFinalPoints": 564,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 82
+    },
+    "totals": {
+      "short": 198,
+      "medium": 278,
+      "long": 88,
+      "grand": 564
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14649",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+      "course": "M18",
+      "distance": 18,
+      "fee": 8.5,
+      "date": "25 March 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "67",
+      "time": "0:49:27",
+      "speed": "21.84 Mph",
+      "bar": 66,
+      "barPosition": 55,
+      "vbar": 89,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "82",
+      "time": "0:26:35",
+      "speed": "22.57 Mph",
+      "bar": 52,
+      "barPosition": 69,
+      "vbar": 82,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "79",
+      "time": "3:00:21",
+      "speed": "13.31 Mph",
+      "bar": 66,
+      "barPosition": 55,
+      "vbar": 88,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "47",
+      "time": "0:24:21",
+      "speed": "24.64 Mph",
+      "bar": 86,
+      "barPosition": 35,
+      "vbar": 96,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "34",
+      "time": "0:37:00",
+      "speed": "21.08 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 102,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "67",
+      "time": "1:05:36",
+      "speed": "22.87 Mph",
+      "bar": 65,
+      "barPosition": 56,
+      "vbar": 87,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15392",
+      "raceCategory": "medium",
+      "name": "(B) Houghton Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "25 June 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "38",
+      "time": "1:08:47",
+      "speed": "21.81 Mph",
+      "bar": 89,
+      "barPosition": 32,
+      "vbar": 102,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 48,
+  "barHistory": [
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 92
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 121
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 134
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 145
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 52,
+        "medium": 66,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 100
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 52,
+        "medium": 66,
+        "long": 66,
+        "grand": 184
+      },
+      "position": 80
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 52,
+        "medium": 66,
+        "long": 66,
+        "grand": 184
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 138,
+        "medium": 66,
+        "long": 66,
+        "grand": 270
+      },
+      "position": 54
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 138,
+        "medium": 66,
+        "long": 66,
+        "grand": 270
+      },
+      "position": 66
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 138,
+        "medium": 66,
+        "long": 66,
+        "grand": 270
+      },
+      "position": 72
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 179,
+        "medium": 66,
+        "long": 66,
+        "grand": 311
+      },
+      "position": 66
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 179,
+        "medium": 66,
+        "long": 66,
+        "grand": 311
+      },
+      "position": 71
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 179,
+        "medium": 131,
+        "long": 66,
+        "grand": 376
+      },
+      "position": 59
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 179,
+        "medium": 131,
+        "long": 66,
+        "grand": 376
+      },
+      "position": 64
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 24
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 26
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 30
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 31
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 34
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 36
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 44
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 44
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 179,
+        "medium": 220,
+        "long": 66,
+        "grand": 465
+      },
+      "position": 48
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 45,
+      "id": "3838",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 45,
+      "name": "Gemma Hutchins",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 84.16666666666667,
+      "predictedFinalPoints": 505,
+      "grandTotal": 505,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 227
+    },
+    {
+      "position": 46,
+      "id": "3953",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 46,
+      "name": "Hannah Baker",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 486,
+      "grandTotal": 486,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 197
+    },
+    {
+      "position": 47,
+      "id": "1408",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 47,
+      "name": "Jennifer Holland",
+      "club": "Tyne Tri",
+      "averagePointsPerRace": 80.16666666666667,
+      "predictedFinalPoints": 481,
+      "grandTotal": 481,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 120
+    },
+    {
+      "position": 48,
+      "id": "3214",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 48,
+      "name": "Stephen Hill",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 77.5,
+      "predictedFinalPoints": 465,
+      "grandTotal": 465,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 52
+    },
+    {
+      "position": 49,
+      "id": "2927",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 49,
+      "name": "gareth davies",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 75.83333333333333,
+      "predictedFinalPoints": 455,
+      "grandTotal": 455,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 148
+    },
+    {
+      "position": 50,
+      "id": "964",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 50,
+      "name": "Paul Mitchell",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 438,
+      "grandTotal": 438,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 196
+    },
+    {
+      "position": 51,
+      "id": "7743",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 51,
+      "name": "Stephen McIntosh",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 71.16666666666667,
+      "predictedFinalPoints": 427,
+      "grandTotal": 427,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 56
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "id": "4233",
+  "name": "IAN TAYLOR",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blumilk.com",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Blumilk.com",
+        "position": "28",
+        "time": "0:22:02",
+        "speed": "27.23 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Blumilk.com",
+        "position": "6",
+        "time": "1:03:15",
+        "speed": "24.66 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Blumilk.com",
+        "position": "18",
+        "time": "0:51:40",
+        "speed": "24.39 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Blumilk.com",
+        "position": "22",
+        "time": "1:56:53",
+        "speed": "20.53 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 98,
+    "averagePointsPerMediumRace": 112.5,
+    "averagePointsPerLongRace": 111,
+    "averagePointsPerRace": 108.5,
+    "remainingShortPoints": 142,
+    "remainingMediumPoints": 135,
+    "remainingLongPoints": 9,
+    "remainingPoints": 286,
+    "predictedFinalPoints": 644.5,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 98,
+      "medium": 225,
+      "long": 111,
+      "grand": 434
+    },
+    "predictedFinalPosition": 37
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Blumilk.com",
+        "position": "28",
+        "time": "0:22:02",
+        "speed": "27.23 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Blumilk.com",
+        "position": "6",
+        "time": "1:03:15",
+        "speed": "24.66 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Blumilk.com",
+        "position": "18",
+        "time": "0:51:40",
+        "speed": "24.39 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Blumilk.com",
+        "position": "22",
+        "time": "1:56:53",
+        "speed": "20.53 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 4,
+    "complete": false,
+    "averagePointsPerShortRace": 107,
+    "averagePointsPerMediumRace": 115,
+    "averagePointsPerLongRace": 117,
+    "averagePointsPerRace": 113.5,
+    "remainingShortPoints": 133,
+    "remainingMediumPoints": 130,
+    "remainingLongPoints": 3,
+    "remainingPoints": 266,
+    "predictedFinalPoints": 676,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 107,
+      "medium": 230,
+      "long": 117,
+      "grand": 454
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14610",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "18 March 2017",
+      "club": "Blumilk.com",
+      "position": "18",
+      "time": "0:51:40",
+      "speed": "24.39 Mph",
+      "bar": 109,
+      "barPosition": 12,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Blumilk.com",
+      "position": "22",
+      "time": "1:56:53",
+      "speed": "20.53 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Blumilk.com",
+      "position": "28",
+      "time": "0:22:02",
+      "speed": "27.23 Mph",
+      "bar": 98,
+      "barPosition": 23,
+      "vbar": 107,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Blumilk.com",
+      "position": "6",
+      "time": "1:03:15",
+      "speed": "24.66 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 80,
+  "barHistory": [
+    {
+      "eventId": "14610",
+      "date": "18 March 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 12
+    },
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 43
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 56
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 76
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 84
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 112
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 58
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 67
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 76
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 87
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 89
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 97
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 104
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 113
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 116
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 121
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 111,
+        "grand": 220
+      },
+      "position": 124
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 98,
+        "medium": 109,
+        "long": 111,
+        "grand": 318
+      },
+      "position": 98
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 98,
+        "medium": 109,
+        "long": 111,
+        "grand": 318
+      },
+      "position": 98
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 98,
+        "medium": 225,
+        "long": 111,
+        "grand": 434
+      },
+      "position": 72
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 98,
+        "medium": 225,
+        "long": 111,
+        "grand": 434
+      },
+      "position": 75
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 98,
+        "medium": 225,
+        "long": 111,
+        "grand": 434
+      },
+      "position": 80
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 98,
+        "medium": 225,
+        "long": 111,
+        "grand": 434
+      },
+      "position": 80
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 98,
+        "medium": 225,
+        "long": 111,
+        "grand": 434
+      },
+      "position": 80
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 5 BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10 BAR"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 77,
+      "id": "293",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 92,
+      "name": "Jock Bolam",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 518,
+      "grandTotal": 440,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "480",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 30,
+      "name": "Neil Baxter",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 657.3333333333334,
+      "grandTotal": 436,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 79,
+      "id": "1636",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 90,
+      "name": "patrick deane",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 523,
+      "grandTotal": 435,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 152
+    },
+    {
+      "position": 80,
+      "id": "4233",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 37,
+      "name": "IAN TAYLOR",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 108.5,
+      "predictedFinalPoints": 644.5,
+      "grandTotal": 434,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 81,
+      "id": "415",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 91,
+      "name": "Sam Dodd",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 86.2,
+      "predictedFinalPoints": 519.6666666666666,
+      "grandTotal": 431,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 77
+    },
+    {
+      "position": 82,
+      "id": "1428",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 94,
+      "name": "Stephen Cummings",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 85.8,
+      "predictedFinalPoints": 509.3333333333333,
+      "grandTotal": 429,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 124
+    },
+    {
+      "position": 83,
+      "id": "868",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 97,
+      "name": "David Hordon",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 84.4,
+      "predictedFinalPoints": 505.3333333333333,
+      "grandTotal": 422,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

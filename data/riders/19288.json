@@ -1,0 +1,404 @@
+{
+  "id": "19288",
+  "name": "Ronnie Thompson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Derwentside CC",
+        "position": "63",
+        "time": "1:18:01",
+        "speed": "19.23 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 70,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 70,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 290,
+    "remainingLongPoints": 120,
+    "remainingPoints": 650,
+    "predictedFinalPoints": 70,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 70
+    },
+    "totals": {
+      "short": 0,
+      "medium": 70,
+      "long": 0,
+      "grand": 70
+    },
+    "predictedFinalPosition": 281
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Derwentside CC",
+        "position": "63",
+        "time": "1:18:01",
+        "speed": "19.23 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 108,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 252,
+    "remainingLongPoints": 120,
+    "remainingPoints": 612,
+    "predictedFinalPoints": 108,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 108
+    },
+    "totals": {
+      "short": 0,
+      "medium": 108,
+      "long": 0,
+      "grand": 108
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Derwentside CC",
+      "position": "63",
+      "time": "1:18:01",
+      "speed": "19.23 Mph",
+      "bar": 70,
+      "barPosition": 51,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 280,
+  "barHistory": [
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 259
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 263
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 270
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 271
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 274
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 277
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 277
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 70,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 280
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 277,
+      "id": "7680",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 276,
+      "name": "joanne allan",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 278,
+      "id": "594",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 278,
+      "name": "Stephen Underhill",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 279,
+      "id": "16479",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 279,
+      "name": "Connor Prior",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 280,
+      "id": "19288",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 281,
+      "name": "Ronnie Thompson",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 70
+    },
+    {
+      "position": 281,
+      "id": "14728",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 280,
+      "name": "Graham Davison",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 282,
+      "id": "6048",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 282,
+      "name": "john hopper",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 283,
+      "id": "18204",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 283,
+      "name": "Joanne Rea",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

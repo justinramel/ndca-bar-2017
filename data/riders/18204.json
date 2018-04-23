@@ -1,0 +1,523 @@
+{
+  "id": "18204",
+  "name": "Joanne Rea",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Blaydon CC",
+        "position": "58",
+        "time": "0:31:12",
+        "speed": "19.04 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 0,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 70,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 70,
+    "remainingShortPoints": 170,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 650,
+    "predictedFinalPoints": 70,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 70,
+      "medium": 0,
+      "long": 0,
+      "grand": 70
+    },
+    "predictedFinalPosition": 283
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Blaydon CC",
+        "position": "58",
+        "time": "0:31:12",
+        "speed": "19.04 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 0,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 124,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 604,
+    "predictedFinalPoints": 116,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 116,
+      "medium": 0,
+      "long": 0,
+      "grand": 116
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "Blaydon CC",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Blaydon CC",
+      "position": "58",
+      "time": "0:31:12",
+      "speed": "19.04 Mph",
+      "bar": 70,
+      "barPosition": 51,
+      "vbar": 0,
+      "lbar": 116,
+      "jbar": 0
+    }
+  ],
+  "position": 283,
+  "barHistory": [
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 335
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 204
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 221
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 231
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 237
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 244
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 251
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 255
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 262
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 266
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 273
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 274
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 277
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 280
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 280
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 70,
+        "medium": 0,
+        "long": 0,
+        "grand": 70
+      },
+      "position": 283
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 280,
+      "id": "19288",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 281,
+      "name": "Ronnie Thompson",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 70
+    },
+    {
+      "position": 281,
+      "id": "14728",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 280,
+      "name": "Graham Davison",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 282,
+      "id": "6048",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 282,
+      "name": "john hopper",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 283,
+      "id": "18204",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 283,
+      "name": "Joanne Rea",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 70,
+      "predictedFinalPoints": 70,
+      "grandTotal": 70,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 284,
+      "id": "2151",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 284,
+      "name": "Stephen Magrath",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 69,
+      "grandTotal": 69,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 285,
+      "id": "8339",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 285,
+      "name": "james allen",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 69,
+      "grandTotal": 69,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 286,
+      "id": "14050",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 286,
+      "name": "Dan Hodson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 69,
+      "predictedFinalPoints": 69,
+      "grandTotal": 69,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

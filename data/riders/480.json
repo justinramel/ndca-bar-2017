@@ -1,0 +1,781 @@
+{
+  "id": "480",
+  "name": "Neil Baxter",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blumilk.com",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Blumilk.com",
+        "position": "7",
+        "time": "0:30:55",
+        "speed": "25.23 Mph",
+        "bar": 114,
+        "barPosition": 7,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Blumilk.com",
+        "position": "12",
+        "time": "0:50:16",
+        "speed": "25.07 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Blumilk.com",
+        "position": "16",
+        "time": "0:59:44",
+        "speed": "25.11 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "Blumilk.com",
+        "position": "21",
+        "time": "1:19:44",
+        "speed": "20.32 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 114,
+    "averagePointsPerMediumRace": 107.33333333333333,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 126,
+    "remainingMediumPoints": 38,
+    "remainingLongPoints": 120,
+    "remainingPoints": 284,
+    "predictedFinalPoints": 657.3333333333334,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 114,
+      "medium": 322,
+      "long": 0,
+      "grand": 436
+    },
+    "predictedFinalPosition": 30
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Blumilk.com",
+        "position": "7",
+        "time": "0:30:55",
+        "speed": "25.23 Mph",
+        "bar": 114,
+        "barPosition": 7,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Blumilk.com",
+        "position": "16",
+        "time": "0:59:44",
+        "speed": "25.11 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Blumilk.com",
+        "position": "12",
+        "time": "0:50:16",
+        "speed": "25.07 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "Blumilk.com",
+        "position": "21",
+        "time": "1:19:44",
+        "speed": "20.32 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 117.33333333333333,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 117.5,
+    "remainingShortPoints": 122,
+    "remainingMediumPoints": 8,
+    "remainingLongPoints": 120,
+    "remainingPoints": 250,
+    "predictedFinalPoints": 705.3333333333334,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 118,
+      "medium": 352,
+      "long": 0,
+      "grand": 470
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14700",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 8.5,
+      "date": "02 April 2017",
+      "club": "Blumilk.com",
+      "position": "21",
+      "time": "1:19:44",
+      "speed": "20.32 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Blumilk.com",
+      "position": "12",
+      "time": "0:50:16",
+      "speed": "25.07 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Blumilk.com",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Blumilk.com",
+      "position": "7",
+      "time": "0:30:55",
+      "speed": "25.23 Mph",
+      "bar": 114,
+      "barPosition": 7,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15392",
+      "raceCategory": "medium",
+      "name": "(B) Houghton Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "25 June 2017",
+      "club": "Blumilk.com",
+      "position": "16",
+      "time": "0:59:44",
+      "speed": "25.11 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Blumilk.com",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 78,
+  "barHistory": [
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 102,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 66
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 29
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 36
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 52
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 62
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 70
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 79
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 214,
+        "long": 0,
+        "grand": 214
+      },
+      "position": 93
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 114,
+        "medium": 214,
+        "long": 0,
+        "grand": 328
+      },
+      "position": 60
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 114,
+        "medium": 214,
+        "long": 0,
+        "grand": 328
+      },
+      "position": 63
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 114,
+        "medium": 214,
+        "long": 0,
+        "grand": 328
+      },
+      "position": 75
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 114,
+        "medium": 214,
+        "long": 0,
+        "grand": 328
+      },
+      "position": 80
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 52
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 60
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 67
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 67
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 70
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 73
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 78
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 78
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 114,
+        "medium": 322,
+        "long": 0,
+        "grand": 436
+      },
+      "position": 78
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10 BAR"
+    },
+    {
+      "cssclass": "tag is-black",
+      "text": "2 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 75,
+      "id": "7785",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 84,
+      "name": "Phil Cook",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 91,
+      "predictedFinalPoints": 542.5,
+      "grandTotal": 455,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 76,
+      "id": "1818",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 21,
+      "name": "Kris Whitelaw",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 113.25,
+      "predictedFinalPoints": 679,
+      "grandTotal": 453,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 113
+    },
+    {
+      "position": 77,
+      "id": "293",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 92,
+      "name": "Jock Bolam",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 518,
+      "grandTotal": 440,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "480",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 30,
+      "name": "Neil Baxter",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 657.3333333333334,
+      "grandTotal": 436,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 79,
+      "id": "1636",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 90,
+      "name": "patrick deane",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 523,
+      "grandTotal": 435,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 152
+    },
+    {
+      "position": 80,
+      "id": "4233",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 37,
+      "name": "IAN TAYLOR",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 108.5,
+      "predictedFinalPoints": 644.5,
+      "grandTotal": 434,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 81,
+      "id": "415",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 91,
+      "name": "Sam Dodd",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 86.2,
+      "predictedFinalPoints": 519.6666666666666,
+      "grandTotal": 431,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 77
+    }
+  ]
+}

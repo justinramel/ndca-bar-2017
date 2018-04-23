@@ -1,0 +1,779 @@
+{
+  "id": "705",
+  "name": "Nev Martin",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "GS Metro",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "GS Metro",
+        "position": "5",
+        "time": "0:22:36",
+        "speed": "26.55 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "GS Metro",
+        "position": "8",
+        "time": "0:21:26",
+        "speed": "27.99 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "GS Metro",
+        "position": "11",
+        "time": "0:59:59",
+        "speed": "25.01 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "GS Metro",
+        "position": "12",
+        "time": "1:00:33",
+        "speed": "24.77 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 116.5,
+    "averagePointsPerMediumRace": 111.5,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 114,
+    "remainingShortPoints": 7,
+    "remainingMediumPoints": 137,
+    "remainingLongPoints": 120,
+    "remainingPoints": 264,
+    "predictedFinalPoints": 679,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 225
+    },
+    "totals": {
+      "short": 233,
+      "medium": 223,
+      "long": 0,
+      "grand": 456
+    },
+    "predictedFinalPosition": 22
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "GS Metro",
+        "position": "5",
+        "time": "0:22:36",
+        "speed": "26.55 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "GS Metro",
+        "position": "10",
+        "time": "0:22:05",
+        "speed": "27.17 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "GS Metro",
+        "position": "12",
+        "time": "1:00:33",
+        "speed": "24.77 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "GS Metro",
+        "position": "11",
+        "time": "0:59:59",
+        "speed": "25.01 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 120,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 120,
+    "remainingLongPoints": 120,
+    "remainingPoints": 240,
+    "predictedFinalPoints": 720,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 240
+    },
+    "totals": {
+      "short": 240,
+      "medium": 240,
+      "long": 0,
+      "grand": 480
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14861",
+      "raceCategory": "short",
+      "name": "Houghton Cc",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "23 April 2017",
+      "club": "GS Metro",
+      "position": "5",
+      "time": "0:22:36",
+      "speed": "26.55 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "GS Metro",
+      "position": "10",
+      "time": "0:22:05",
+      "speed": "27.17 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "GS Metro",
+      "position": "8",
+      "time": "0:21:26",
+      "speed": "27.99 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "GS Metro",
+      "position": "12",
+      "time": "1:00:33",
+      "speed": "24.77 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "GS Metro",
+      "position": "11",
+      "time": "0:59:59",
+      "speed": "25.01 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "GS Metro",
+      "position": "26",
+      "time": "0:21:57",
+      "speed": "27.33 Mph",
+      "bar": 100,
+      "barPosition": 21,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "GS Metro",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 74,
+  "barHistory": [
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 117,
+        "medium": 0,
+        "long": 0,
+        "grand": 117
+      },
+      "position": 75
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 43
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 53
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 230,
+        "medium": 0,
+        "long": 0,
+        "grand": 230
+      },
+      "position": 61
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 233,
+        "medium": 0,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 69
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 233,
+        "medium": 0,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 84
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 233,
+        "medium": 0,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 86
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 233,
+        "medium": 0,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 94
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 233,
+        "medium": 111,
+        "long": 0,
+        "grand": 344
+      },
+      "position": 57
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 233,
+        "medium": 111,
+        "long": 0,
+        "grand": 344
+      },
+      "position": 70
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 233,
+        "medium": 111,
+        "long": 0,
+        "grand": 344
+      },
+      "position": 76
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 233,
+        "medium": 111,
+        "long": 0,
+        "grand": 344
+      },
+      "position": 82
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 55
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 61
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 62
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 65
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 68
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 73
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 74
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 233,
+        "medium": 223,
+        "long": 0,
+        "grand": 456
+      },
+      "position": 74
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 5 BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "5 x Top 10 BAR"
+    },
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 71,
+      "id": "8401",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 8,
+      "name": "Dean Penfold",
+      "club": "Cestria Cycles Racing Team",
+      "averagePointsPerRace": 117.5,
+      "predictedFinalPoints": 704.6666666666666,
+      "grandTotal": 470,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 117
+    },
+    {
+      "position": 72,
+      "id": "15799",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 77,
+      "name": "Mark Ambury",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 92.6,
+      "predictedFinalPoints": 561.6666666666666,
+      "grandTotal": 463,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 165
+    },
+    {
+      "position": 73,
+      "id": "554",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 15,
+      "name": "Andrew Hall",
+      "club": "GS Metro",
+      "averagePointsPerRace": 115.75,
+      "predictedFinalPoints": 693.3333333333334,
+      "grandTotal": 463,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 114
+    },
+    {
+      "position": 74,
+      "id": "705",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 22,
+      "name": "Nev Martin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 679,
+      "grandTotal": 456,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 225
+    },
+    {
+      "position": 75,
+      "id": "7785",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 84,
+      "name": "Phil Cook",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 91,
+      "predictedFinalPoints": 542.5,
+      "grandTotal": 455,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 76,
+      "id": "1818",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 21,
+      "name": "Kris Whitelaw",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 113.25,
+      "predictedFinalPoints": 679,
+      "grandTotal": 453,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 113
+    },
+    {
+      "position": 77,
+      "id": "293",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 92,
+      "name": "Jock Bolam",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 518,
+      "grandTotal": 440,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

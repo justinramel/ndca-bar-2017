@@ -1,0 +1,652 @@
+{
+  "id": "2955",
+  "name": "Neil Foster",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Adept Precision RT",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Adept Precision RT",
+        "position": "37",
+        "time": "0:23:50",
+        "speed": "22.66 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Adept Precision RT",
+        "position": "40",
+        "time": "0:55:12",
+        "speed": "22.83 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 90,
+    "averagePointsPerMediumRace": 90,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 90,
+    "remainingShortPoints": 150,
+    "remainingMediumPoints": 270,
+    "remainingLongPoints": 120,
+    "remainingPoints": 540,
+    "predictedFinalPoints": 180,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 90,
+      "medium": 90,
+      "long": 0,
+      "grand": 180
+    },
+    "predictedFinalPosition": 161
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Adept Precision RT",
+        "position": "37",
+        "time": "0:23:50",
+        "speed": "22.66 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Adept Precision RT",
+        "position": "40",
+        "time": "0:55:12",
+        "speed": "22.83 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 108,
+    "averagePointsPerMediumRace": 109,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108.5,
+    "remainingShortPoints": 132,
+    "remainingMediumPoints": 251,
+    "remainingLongPoints": 120,
+    "remainingPoints": 503,
+    "predictedFinalPoints": 217,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 108,
+      "medium": 109,
+      "long": 0,
+      "grand": 217
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14610",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "18 March 2017",
+      "club": "Adept Precision RT",
+      "position": "40",
+      "time": "0:55:12",
+      "speed": "22.83 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 109,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Adept Precision RT",
+      "position": "37",
+      "time": "0:23:50",
+      "speed": "22.66 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 162,
+  "barHistory": [
+    {
+      "eventId": "14610",
+      "date": "18 March 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 31
+    },
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 59
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 78
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 94
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 109
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 130
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 143
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 152
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 160
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 166
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 176
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 182
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 187
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 90,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 190
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 142
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 142
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 145
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 152
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 154
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 158
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 159
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 160
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 90,
+        "medium": 90,
+        "long": 0,
+        "grand": 180
+      },
+      "position": 162
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 159,
+      "id": "17976",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 158,
+      "name": "Scott McCance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 160,
+      "id": "8994",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 159,
+      "name": "Peter Searle",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 161,
+      "id": "508",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 160,
+      "name": "Terry Fountain",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 162,
+      "id": "2955",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 161,
+      "name": "Neil Foster",
+      "club": "Adept Precision RT",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 180,
+      "grandTotal": 180,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 163,
+      "id": "13678",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 162,
+      "name": "Paul Tyler",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 91
+    },
+    {
+      "position": 164,
+      "id": "9698",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 163,
+      "name": "Tracey Sample",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 165,
+      "id": "888",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 164,
+      "name": "Thomas Hordon",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 88.5,
+      "predictedFinalPoints": 177,
+      "grandTotal": 177,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

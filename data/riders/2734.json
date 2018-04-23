@@ -1,0 +1,648 @@
+{
+  "id": "2734",
+  "name": "Lee Head",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "85",
+        "time": "0:26:58",
+        "speed": "22.25 Mph",
+        "bar": 49,
+        "barPosition": 72,
+        "vbar": 81,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "1:12:57",
+        "speed": "20.56 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 101,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "2:15:20",
+        "speed": "22.17 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 103,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 1,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 49,
+    "averagePointsPerMediumRace": 84,
+    "averagePointsPerLongRace": 85,
+    "averagePointsPerRace": 72.66666666666667,
+    "remainingShortPoints": 191,
+    "remainingMediumPoints": 276,
+    "remainingLongPoints": 35,
+    "remainingPoints": 502,
+    "predictedFinalPoints": 435,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 134
+    },
+    "totals": {
+      "short": 49,
+      "medium": 84,
+      "long": 85,
+      "grand": 218
+    },
+    "predictedFinalPosition": 114
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "85",
+        "time": "0:26:58",
+        "speed": "22.25 Mph",
+        "bar": 49,
+        "barPosition": 72,
+        "vbar": 81,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "1:12:57",
+        "speed": "20.56 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 101,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "2:15:20",
+        "speed": "22.17 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 103,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 1,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 81,
+    "averagePointsPerMediumRace": 101,
+    "averagePointsPerLongRace": 103,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 159,
+    "remainingMediumPoints": 259,
+    "remainingLongPoints": 17,
+    "remainingPoints": 435,
+    "predictedFinalPoints": 568,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 184
+    },
+    "totals": {
+      "short": 81,
+      "medium": 101,
+      "long": 103,
+      "grand": 285
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "North Tyneside Riders CC",
+      "position": "85",
+      "time": "0:26:58",
+      "speed": "22.25 Mph",
+      "bar": 49,
+      "barPosition": 72,
+      "vbar": 81,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "North Tyneside Riders CC",
+      "position": "47",
+      "time": "1:12:57",
+      "speed": "20.56 Mph",
+      "bar": 84,
+      "barPosition": 37,
+      "vbar": 101,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15710",
+      "raceCategory": "long",
+      "name": "(B) N & Dca (N&Dca Champs)",
+      "course": "M509",
+      "distance": 50,
+      "fee": 8.5,
+      "date": "06 August 2017",
+      "club": "North Tyneside Riders CC",
+      "position": "47",
+      "time": "2:15:20",
+      "speed": "22.17 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 103,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 137,
+  "barHistory": [
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 165
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 183
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 197
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 205
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 218
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 233
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 49,
+        "medium": 0,
+        "long": 0,
+        "grand": 49
+      },
+      "position": 242
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 145
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 149
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 154
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 156
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 158
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 163
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 169
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 172
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 178
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 85,
+        "grand": 218
+      },
+      "position": 135
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 85,
+        "grand": 218
+      },
+      "position": 135
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 49,
+        "medium": 84,
+        "long": 85,
+        "grand": 218
+      },
+      "position": 137
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 134,
+      "id": "4590",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 139,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 112.5,
+      "predictedFinalPoints": 225,
+      "grandTotal": 225,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 135,
+      "id": "19158",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 112,
+      "name": "Caroline Golightly",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 444,
+      "grandTotal": 222,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 69
+    },
+    {
+      "position": 136,
+      "id": "4627",
+      "pointsDirection": -47,
+      "barPredictedFinalPosition": 134,
+      "name": "Joe Applegarth",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 298.5,
+      "grandTotal": 219,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 137,
+      "id": "2734",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 114,
+      "name": "Lee Head",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 72.66666666666667,
+      "predictedFinalPoints": 435,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 134
+    },
+    {
+      "position": 138,
+      "id": "8823",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 140,
+      "name": "James Hadfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 108.5,
+      "predictedFinalPoints": 217,
+      "grandTotal": 217,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 139,
+      "id": "17838",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 141,
+      "name": "Timothy Brown",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 212,
+      "grandTotal": 212,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 140,
+      "id": "2311",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 142,
+      "name": "Paul Rider",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 105.5,
+      "predictedFinalPoints": 211,
+      "grandTotal": 211,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "id": "16536",
+  "name": "Adele Armitage",
+  "sex": "Female",
+  "category": "Juvenile",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inLBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "48",
+        "time": "0:49:10",
+        "speed": "15.86 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 114,
+        "jbar": 118
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 83,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 83,
+    "remainingShortPoints": 157,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 637,
+    "predictedFinalPoints": 83,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 83,
+      "medium": 0,
+      "long": 0,
+      "grand": 83
+    },
+    "predictedFinalPosition": 245
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "48",
+        "time": "0:49:10",
+        "speed": "15.86 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 114,
+        "jbar": 118
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 114,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 114,
+    "remainingShortPoints": 126,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 606,
+    "predictedFinalPoints": 114,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 114,
+      "medium": 0,
+      "long": 0,
+      "grand": 114
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "48",
+        "time": "0:49:10",
+        "speed": "15.86 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 114,
+        "jbar": 118
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 122,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 362,
+    "predictedFinalPoints": 118,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 118,
+      "medium": 0,
+      "long": 0,
+      "grand": 118
+    }
+  },
+  "races": [
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "North Tyneside Riders CC",
+      "position": "48",
+      "time": "0:49:10",
+      "speed": "15.86 Mph",
+      "bar": 83,
+      "barPosition": 38,
+      "vbar": 0,
+      "lbar": 114,
+      "jbar": 118
+    }
+  ],
+  "position": 245,
+  "barHistory": [
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 202
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 207
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 212
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 215
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 217
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 220
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 224
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 232
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 234
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 238
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 241
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 242
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 83,
+        "medium": 0,
+        "long": 0,
+        "grand": 83
+      },
+      "position": 245
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 242,
+      "id": "9864",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 243,
+      "name": "Claire Cook",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 243,
+      "id": "1616",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 242,
+      "name": "Michael Wyngard",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 244,
+      "id": "10053",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 244,
+      "name": "Paul Borrowdale",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 245,
+      "id": "16536",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 245,
+      "name": "Adele Armitage",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 246,
+      "id": "17943",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 246,
+      "name": "Dean Taylor",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 247,
+      "id": "7481",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 248,
+      "name": "Gavin Husband",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 82
+    },
+    {
+      "position": 248,
+      "id": "8468",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 247,
+      "name": "Richard Nichol",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

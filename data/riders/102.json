@@ -1,0 +1,785 @@
+{
+  "id": "102",
+  "name": "Adam Jarps",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Manilla Cycling",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Manilla Cycling",
+        "position": "3",
+        "time": "0:23:21",
+        "speed": "25.44 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Manilla Cycling",
+        "position": "4",
+        "time": "0:36:23",
+        "speed": "23.09 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Manilla Cycling",
+        "position": "4",
+        "time": "0:57:20",
+        "speed": "26.16 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Manilla Cycling",
+        "position": "5",
+        "time": "0:57:39",
+        "speed": "26.02 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Manilla Cycling",
+        "position": "10",
+        "time": "0:59:54",
+        "speed": "25.04 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 116,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116.8,
+    "remainingShortPoints": 4,
+    "remainingMediumPoints": 12,
+    "remainingLongPoints": 120,
+    "remainingPoints": 136,
+    "predictedFinalPoints": 700,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 229
+    },
+    "totals": {
+      "short": 236,
+      "medium": 348,
+      "long": 0,
+      "grand": 584
+    },
+    "predictedFinalPosition": 11
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Manilla Cycling",
+        "position": "7",
+        "time": "0:21:36",
+        "speed": "27.78 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Manilla Cycling",
+        "position": "3",
+        "time": "0:23:21",
+        "speed": "25.44 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Manilla Cycling",
+        "position": "4",
+        "time": "0:57:20",
+        "speed": "26.16 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Manilla Cycling",
+        "position": "10",
+        "time": "0:59:54",
+        "speed": "25.04 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 120,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 0,
+    "predictedFinalPoints": 480,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 240
+    },
+    "totals": {
+      "short": 240,
+      "medium": 240,
+      "long": 0,
+      "grand": 480
+    }
+  },
+  "races": [
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Manilla Cycling",
+      "position": "7",
+      "time": "0:21:36",
+      "speed": "27.78 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Manilla Cycling",
+      "position": "3",
+      "time": "0:23:21",
+      "speed": "25.44 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15392",
+      "raceCategory": "medium",
+      "name": "(B) Houghton Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "25 June 2017",
+      "club": "Manilla Cycling",
+      "position": "4",
+      "time": "0:57:20",
+      "speed": "26.16 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Manilla Cycling",
+      "position": "10",
+      "time": "0:59:54",
+      "speed": "25.04 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Manilla Cycling",
+      "position": "9",
+      "time": "0:20:46",
+      "speed": "28.89 Mph",
+      "bar": 114,
+      "barPosition": 7,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Manilla Cycling",
+      "position": "4",
+      "time": "0:36:23",
+      "speed": "23.09 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Manilla Cycling",
+      "position": "5",
+      "time": "0:57:39",
+      "speed": "26.02 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    }
+  ],
+  "position": 58,
+  "barHistory": [
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 116,
+        "medium": 0,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 103
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 116,
+        "medium": 0,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 112
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 116,
+        "medium": 0,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 122
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 116,
+        "medium": 0,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 130
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 234,
+        "medium": 0,
+        "long": 0,
+        "grand": 234
+      },
+      "position": 82
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 234,
+        "medium": 0,
+        "long": 0,
+        "grand": 234
+      },
+      "position": 85
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 234,
+        "medium": 0,
+        "long": 0,
+        "grand": 234
+      },
+      "position": 93
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 234,
+        "medium": 0,
+        "long": 0,
+        "grand": 234
+      },
+      "position": 100
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 234,
+        "medium": 0,
+        "long": 0,
+        "grand": 234
+      },
+      "position": 108
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 234,
+        "medium": 0,
+        "long": 0,
+        "grand": 234
+      },
+      "position": 110
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 234,
+        "medium": 118,
+        "long": 0,
+        "grand": 352
+      },
+      "position": 78
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 234,
+        "medium": 231,
+        "long": 0,
+        "grand": 465
+      },
+      "position": 52
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 234,
+        "medium": 231,
+        "long": 0,
+        "grand": 465
+      },
+      "position": 57
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 236,
+        "medium": 231,
+        "long": 0,
+        "grand": 467
+      },
+      "position": 58
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 236,
+        "medium": 231,
+        "long": 0,
+        "grand": 467
+      },
+      "position": 61
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 236,
+        "medium": 348,
+        "long": 0,
+        "grand": 584
+      },
+      "position": 46
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 236,
+        "medium": 348,
+        "long": 0,
+        "grand": 584
+      },
+      "position": 55
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 236,
+        "medium": 348,
+        "long": 0,
+        "grand": 584
+      },
+      "position": 55
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 236,
+        "medium": 348,
+        "long": 0,
+        "grand": 584
+      },
+      "position": 58
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "3 x 3rd BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "5 x Top 5 BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "7 x Top 10 BAR"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 55,
+      "id": "7048",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 55,
+      "name": "Ross Gray",
+      "club": "Prima Team Racing",
+      "averagePointsPerRace": 18.5,
+      "predictedFinalPoints": 111,
+      "grandTotal": 111,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 56,
+      "id": "65",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 3,
+      "name": "Carl Donaldson",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.8,
+      "predictedFinalPoints": 718,
+      "grandTotal": 599,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 240
+    },
+    {
+      "position": 57,
+      "id": "4175",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 2,
+      "name": "Danny Grieves",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.8,
+      "predictedFinalPoints": 718.6666666666666,
+      "grandTotal": 599,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 120
+    },
+    {
+      "position": 58,
+      "id": "102",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 11,
+      "name": "Adam Jarps",
+      "club": "Manilla Cycling",
+      "averagePointsPerRace": 116.8,
+      "predictedFinalPoints": 700,
+      "grandTotal": 584,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 229
+    },
+    {
+      "position": 59,
+      "id": "6124",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 17,
+      "name": "Ian Norris",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 115.2,
+      "predictedFinalPoints": 692,
+      "grandTotal": 576,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "683",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 19,
+      "name": "Michael Sloanes",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 114.8,
+      "predictedFinalPoints": 688.5,
+      "grandTotal": 574,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 116
+    },
+    {
+      "position": 61,
+      "id": "6872",
+      "pointsDirection": -2,
+      "barPredictedFinalPosition": 34,
+      "name": "david robinson",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 108.2,
+      "predictedFinalPoints": 649.6666666666666,
+      "grandTotal": 541,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

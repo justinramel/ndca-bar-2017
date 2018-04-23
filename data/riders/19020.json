@@ -1,0 +1,428 @@
+{
+  "id": "19020",
+  "name": "Amy Hugill",
+  "sex": "Female",
+  "category": "Espoir",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Blaydon CC",
+        "position": "53",
+        "time": "0:29:26",
+        "speed": "18.35 Mph",
+        "bar": 77,
+        "barPosition": 44,
+        "vbar": 0,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 77,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 77,
+    "remainingShortPoints": 163,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 643,
+    "predictedFinalPoints": 77,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 77,
+      "medium": 0,
+      "long": 0,
+      "grand": 77
+    },
+    "predictedFinalPosition": 264
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Blaydon CC",
+        "position": "53",
+        "time": "0:29:26",
+        "speed": "18.35 Mph",
+        "bar": 77,
+        "barPosition": 44,
+        "vbar": 0,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 124,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 604,
+    "predictedFinalPoints": 116,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 116,
+      "medium": 0,
+      "long": 0,
+      "grand": 116
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Blaydon CC",
+      "position": "53",
+      "time": "0:29:26",
+      "speed": "18.35 Mph",
+      "bar": 77,
+      "barPosition": 44,
+      "vbar": 0,
+      "lbar": 116,
+      "jbar": 0
+    }
+  ],
+  "position": 264,
+  "barHistory": [
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 231
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 235
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 240
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 244
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 252
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 254
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 257
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 260
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 261
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 77,
+        "medium": 0,
+        "long": 0,
+        "grand": 77
+      },
+      "position": 264
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 261,
+      "id": "17859",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 261,
+      "name": "Roy Cassap",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 78,
+      "predictedFinalPoints": 78,
+      "grandTotal": 78,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 262,
+      "id": "7500",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 263,
+      "name": "Clive Rae",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 77,
+      "predictedFinalPoints": 77,
+      "grandTotal": 77,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 77
+    },
+    {
+      "position": 263,
+      "id": "6735",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 262,
+      "name": "Carl Greaves",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 77,
+      "predictedFinalPoints": 77,
+      "grandTotal": 77,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 264,
+      "id": "19020",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 264,
+      "name": "Amy Hugill",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 77,
+      "predictedFinalPoints": 77,
+      "grandTotal": 77,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 265,
+      "id": "5356",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 265,
+      "name": "Iain Macphail",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 76,
+      "grandTotal": 76,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 266,
+      "id": "16731",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 266,
+      "name": "Lois Robinson",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 76,
+      "grandTotal": 76,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 267,
+      "id": "1800",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 267,
+      "name": "Phil Robinson",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 76,
+      "grandTotal": 76,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

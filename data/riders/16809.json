@@ -1,0 +1,799 @@
+{
+  "id": "16809",
+  "name": "Collin Humphrey",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Derwentside CC",
+        "position": "3",
+        "time": "0:20:57",
+        "speed": "28.64 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Derwentside CC",
+        "position": "2",
+        "time": "0:19:57",
+        "speed": "30.08 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Derwentside CC",
+        "position": "2",
+        "time": "0:56:06",
+        "speed": "26.74 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Derwentside CC",
+        "position": "6",
+        "time": "0:54:19",
+        "speed": "27.62 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Derwentside CC",
+        "position": "3",
+        "time": "0:56:16",
+        "speed": "26.66 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Derwentside CC",
+        "position": "8",
+        "time": "1:53:13",
+        "speed": "21.20 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 118.33333333333333,
+    "averagePointsPerLongRace": 119,
+    "averagePointsPerRace": 118.66666666666667,
+    "remainingShortPoints": 2,
+    "remainingMediumPoints": 5,
+    "remainingLongPoints": 1,
+    "remainingPoints": 8,
+    "predictedFinalPoints": 712,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 237
+    },
+    "totals": {
+      "short": 238,
+      "medium": 355,
+      "long": 119,
+      "grand": 712
+    },
+    "predictedFinalPosition": 2
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Derwentside CC",
+      "position": "3",
+      "time": "0:20:57",
+      "speed": "28.64 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Derwentside CC",
+      "position": "8",
+      "time": "1:53:13",
+      "speed": "21.20 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "Derwentside CC",
+      "position": "2",
+      "time": "0:19:57",
+      "speed": "30.08 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Derwentside CC",
+      "position": "4",
+      "time": "0:23:47",
+      "speed": "24.98 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15202",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 8.5,
+      "date": "04 June 2017",
+      "club": "Derwentside CC",
+      "position": "7",
+      "time": "1:13:47",
+      "speed": "20.17 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "Derwentside CC",
+      "position": "2",
+      "time": "0:56:06",
+      "speed": "26.74 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Derwentside CC",
+      "position": "6",
+      "time": "0:54:19",
+      "speed": "27.62 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Derwentside CC",
+      "position": "3",
+      "time": "0:56:16",
+      "speed": "26.66 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Derwentside CC",
+      "position": "5",
+      "time": "0:20:35",
+      "speed": "29.15 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Derwentside CC",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Derwentside CC",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 2,
+  "barHistory": [
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 119,
+        "medium": 0,
+        "long": 0,
+        "grand": 119
+      },
+      "position": 98
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 119,
+        "medium": 0,
+        "long": 119,
+        "grand": 238
+      },
+      "position": 50
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 119,
+        "medium": 0,
+        "long": 119,
+        "grand": 238
+      },
+      "position": 57
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 238,
+        "medium": 0,
+        "long": 119,
+        "grand": 357
+      },
+      "position": 35
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 238,
+        "medium": 0,
+        "long": 119,
+        "grand": 357
+      },
+      "position": 37
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 238,
+        "medium": 117,
+        "long": 119,
+        "grand": 474
+      },
+      "position": 21
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 238,
+        "medium": 117,
+        "long": 119,
+        "grand": 474
+      },
+      "position": 24
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 238,
+        "medium": 236,
+        "long": 119,
+        "grand": 593
+      },
+      "position": 13
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 238,
+        "medium": 354,
+        "long": 119,
+        "grand": 711
+      },
+      "position": 1
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 238,
+        "medium": 354,
+        "long": 119,
+        "grand": 711
+      },
+      "position": 1
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 238,
+        "medium": 354,
+        "long": 119,
+        "grand": 711
+      },
+      "position": 1
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 1
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 238,
+        "medium": 355,
+        "long": 119,
+        "grand": 712
+      },
+      "position": 2
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "4 x 2nd BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x 3rd BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "9 x Top 5 BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "9 x Top 10 BAR"
+    },
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    },
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 2,
+      "id": "16809",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 2,
+      "name": "Collin Humphrey",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 118.66666666666667,
+      "predictedFinalPoints": 712,
+      "grandTotal": 712,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 237
+    },
+    {
+      "position": 3,
+      "id": "317",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 3,
+      "name": "Phil Hall",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 118.5,
+      "predictedFinalPoints": 711,
+      "grandTotal": 711,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 118
+    },
+    {
+      "position": 4,
+      "id": "6436",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 4,
+      "name": "Ross Walton",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 118.16666666666667,
+      "predictedFinalPoints": 709,
+      "grandTotal": 709,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 345
+    },
+    {
+      "position": 5,
+      "id": "1033",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 5,
+      "name": "Steven Craggs",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117.16666666666667,
+      "predictedFinalPoints": 703,
+      "grandTotal": 703,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 218
+    },
+    {
+      "position": 6,
+      "id": "1502",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 6,
+      "name": "Justin Ramel",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 702,
+      "grandTotal": 702,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 219
+    },
+    {
+      "position": 7,
+      "id": "866",
+      "pointsDirection": -1,
+      "barPredictedFinalPosition": 7,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116.16666666666667,
+      "predictedFinalPoints": 697,
+      "grandTotal": 697,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 205
+    }
+  ]
+}

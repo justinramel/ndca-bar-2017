@@ -1,0 +1,552 @@
+{
+  "id": "17976",
+  "name": "Scott McCance",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Derwentside CC",
+        "position": "36",
+        "time": "0:27:05",
+        "speed": "21.93 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Derwentside CC",
+        "position": "40",
+        "time": "2:21:46",
+        "speed": "19.89 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 90,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 93,
+    "averagePointsPerRace": 91.5,
+    "remainingShortPoints": 150,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 27,
+    "remainingPoints": 537,
+    "predictedFinalPoints": 183,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 90,
+      "medium": 0,
+      "long": 93,
+      "grand": 183
+    },
+    "predictedFinalPosition": 158
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Derwentside CC",
+      "position": "40",
+      "time": "2:21:46",
+      "speed": "19.89 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Derwentside CC",
+      "position": "36",
+      "time": "0:27:05",
+      "speed": "21.93 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Derwentside CC",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 159,
+  "barHistory": [
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 93,
+        "grand": 93
+      },
+      "position": 150
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 93,
+        "grand": 93
+      },
+      "position": 156
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 107
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 111
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 116
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 124
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 132
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 136
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 139
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 141
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 148
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 150
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 153
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 155
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 157
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 93,
+        "grand": 183
+      },
+      "position": 159
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 156,
+      "id": "5528",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 156,
+      "name": "Michael Hindmarch",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 186,
+      "grandTotal": 186,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 157,
+      "id": "2140",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 124,
+      "name": "Charlotte Cooper",
+      "club": "GS Metro",
+      "averagePointsPerRace": 61.666666666666664,
+      "predictedFinalPoints": 380,
+      "grandTotal": 185,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 55
+    },
+    {
+      "position": 158,
+      "id": "6348",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 157,
+      "name": "Josh Craven",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 92.5,
+      "predictedFinalPoints": 185,
+      "grandTotal": 185,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 159,
+      "id": "17976",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 158,
+      "name": "Scott McCance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 160,
+      "id": "8994",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 159,
+      "name": "Peter Searle",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 161,
+      "id": "508",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 160,
+      "name": "Terry Fountain",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 162,
+      "id": "2955",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 161,
+      "name": "Neil Foster",
+      "club": "Adept Precision RT",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 180,
+      "grandTotal": 180,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

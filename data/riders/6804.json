@@ -1,0 +1,651 @@
+{
+  "id": "6804",
+  "name": "Russell Bayliss",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "GS Metro",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "GS Metro",
+        "position": "23",
+        "time": "0:34:05",
+        "speed": "22.89 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "GS Metro",
+        "position": "23",
+        "time": "1:21:12",
+        "speed": "19.95 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 102,
+    "averagePointsPerMediumRace": 100,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 138,
+    "remainingMediumPoints": 260,
+    "remainingLongPoints": 120,
+    "remainingPoints": 518,
+    "predictedFinalPoints": 202,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 102,
+      "medium": 100,
+      "long": 0,
+      "grand": 202
+    },
+    "predictedFinalPosition": 146
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "GS Metro",
+        "position": "23",
+        "time": "0:34:05",
+        "speed": "22.89 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "GS Metro",
+        "position": "23",
+        "time": "1:21:12",
+        "speed": "19.95 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 113,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 113,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 111,
+    "remainingShortPoints": 131,
+    "remainingMediumPoints": 247,
+    "remainingLongPoints": 120,
+    "remainingPoints": 498,
+    "predictedFinalPoints": 222,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 109,
+      "medium": 113,
+      "long": 0,
+      "grand": 222
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14700",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 8.5,
+      "date": "02 April 2017",
+      "club": "GS Metro",
+      "position": "23",
+      "time": "1:21:12",
+      "speed": "19.95 Mph",
+      "bar": 100,
+      "barPosition": 21,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "GS Metro",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "GS Metro",
+      "position": "23",
+      "time": "0:34:05",
+      "speed": "22.89 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 109,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 144,
+  "barHistory": [
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 69
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 84
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 95
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 118
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 128
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 137
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 144
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 150
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 100,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 156
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 110
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 115
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 123
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 126
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 130
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 132
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 133
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 136
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 139
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 142
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 142
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 102,
+        "medium": 100,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 144
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 141,
+      "id": "4314",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 135,
+      "name": "Robert Newton",
+      "club": "Wansbeck CC",
+      "averagePointsPerRace": 69.33333333333333,
+      "predictedFinalPoints": 280.5,
+      "grandTotal": 208,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 142,
+      "id": "18614",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 143,
+      "name": "Thomas Hutchinson",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 204,
+      "grandTotal": 204,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 143,
+      "id": "858",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 144,
+      "name": "Eoin Gormley",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 101.5,
+      "predictedFinalPoints": 203,
+      "grandTotal": 203,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 144,
+      "id": "18333",
+      "pointsDirection": -52,
+      "barPredictedFinalPosition": 145,
+      "name": "Peter Stokoe",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 202,
+      "grandTotal": 202,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 145,
+      "id": "6804",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 146,
+      "name": "Russell Bayliss",
+      "club": "GS Metro",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 202,
+      "grandTotal": 202,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 146,
+      "id": "6289",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 147,
+      "name": "Ian Hodgson",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 100.5,
+      "predictedFinalPoints": 201,
+      "grandTotal": 201,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 147,
+      "id": "18015",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 148,
+      "name": "David Nearney",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 198,
+      "grandTotal": 198,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

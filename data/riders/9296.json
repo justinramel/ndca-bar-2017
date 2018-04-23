@@ -1,0 +1,717 @@
+{
+  "id": "9296",
+  "name": "Kevin Hall",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Sunderland Clarion",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Sunderland Clarion",
+        "position": "9",
+        "time": "0:23:43",
+        "speed": "25.30 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Sunderland Clarion",
+        "position": "24",
+        "time": "0:22:39",
+        "speed": "26.49 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Sunderland Clarion",
+        "position": "49",
+        "time": "1:01:40",
+        "speed": "24.32 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 108,
+    "averagePointsPerMediumRace": 83,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 99.66666666666667,
+    "remainingShortPoints": 24,
+    "remainingMediumPoints": 277,
+    "remainingLongPoints": 120,
+    "remainingPoints": 421,
+    "predictedFinalPoints": 548,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 57
+    },
+    "totals": {
+      "short": 216,
+      "medium": 83,
+      "long": 0,
+      "grand": 299
+    },
+    "predictedFinalPosition": 80
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Sunderland Clarion",
+        "position": "9",
+        "time": "0:23:43",
+        "speed": "25.30 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Sunderland Clarion",
+        "position": "24",
+        "time": "0:22:39",
+        "speed": "26.49 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Sunderland Clarion",
+        "position": "49",
+        "time": "1:01:40",
+        "speed": "24.32 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 97,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 107.66666666666667,
+    "remainingShortPoints": 14,
+    "remainingMediumPoints": 263,
+    "remainingLongPoints": 120,
+    "remainingPoints": 397,
+    "predictedFinalPoints": 614,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 86
+    },
+    "totals": {
+      "short": 226,
+      "medium": 97,
+      "long": 0,
+      "grand": 323
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14861",
+      "raceCategory": "short",
+      "name": "Houghton Cc",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "23 April 2017",
+      "club": "Sunderland Clarion",
+      "position": "9",
+      "time": "0:23:43",
+      "speed": "25.30 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 116,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Sunderland Clarion",
+      "position": "77",
+      "time": "0:26:12",
+      "speed": "22.90 Mph",
+      "bar": 57,
+      "barPosition": 64,
+      "vbar": 86,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "Sunderland Clarion",
+      "position": "24",
+      "time": "0:22:39",
+      "speed": "26.49 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Sunderland Clarion",
+      "position": "49",
+      "time": "1:01:40",
+      "speed": "24.32 Mph",
+      "bar": 83,
+      "barPosition": 38,
+      "vbar": 97,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Sunderland Clarion",
+      "position": "28",
+      "time": "0:23:08",
+      "speed": "23.34 Mph",
+      "bar": 99,
+      "barPosition": 22,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Sunderland Clarion",
+      "position": "49",
+      "time": "0:23:13",
+      "speed": "25.84 Mph",
+      "bar": 81,
+      "barPosition": 40,
+      "vbar": 101,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 119,
+  "barHistory": [
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 79
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 170,
+        "medium": 0,
+        "long": 0,
+        "grand": 170
+      },
+      "position": 82
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 170,
+        "medium": 0,
+        "long": 0,
+        "grand": 170
+      },
+      "position": 91
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 170,
+        "medium": 0,
+        "long": 0,
+        "grand": 170
+      },
+      "position": 104
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 77
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 88
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 98
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 216,
+        "medium": 0,
+        "long": 0,
+        "grand": 216
+      },
+      "position": 106
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 84
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 89
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 95
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 104
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 107
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 108
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 112
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 115
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 118
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 118
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 216,
+        "medium": 83,
+        "long": 0,
+        "grand": 299
+      },
+      "position": 119
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x Top 10 BAR"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 116,
+      "id": "5746",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 120,
+      "name": "Lewis McEvoy",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 104.33333333333333,
+      "predictedFinalPoints": 417.3333333333333,
+      "grandTotal": 313,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 117,
+      "id": "3648",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 50,
+      "name": "michael openshaw",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 103.66666666666667,
+      "predictedFinalPoints": 619,
+      "grandTotal": 311,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 101
+    },
+    {
+      "position": 118,
+      "id": "3218",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 52,
+      "name": "Mal Gray",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 100.33333333333333,
+      "predictedFinalPoints": 617,
+      "grandTotal": 301,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 119,
+      "id": "9296",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 80,
+      "name": "Kevin Hall",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 99.66666666666667,
+      "predictedFinalPoints": 548,
+      "grandTotal": 299,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 57
+    },
+    {
+      "position": 120,
+      "id": "19486",
+      "pointsDirection": -29,
+      "barPredictedFinalPosition": 64,
+      "name": "Mark Whaley",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 98.66666666666667,
+      "predictedFinalPoints": 592,
+      "grandTotal": 296,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 121,
+      "id": "6142",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 66,
+      "name": "John Paul Herron",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 98,
+      "predictedFinalPoints": 588,
+      "grandTotal": 294,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 122,
+      "id": "6215",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 74,
+      "name": "Dean Madden",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 96.66666666666667,
+      "predictedFinalPoints": 570,
+      "grandTotal": 290,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 212
+    }
+  ]
+}

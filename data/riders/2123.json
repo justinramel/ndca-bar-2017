@@ -1,0 +1,640 @@
+{
+  "id": "2123",
+  "name": "Wayne Baker",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Blaydon CC",
+        "position": "64",
+        "time": "0:33:43",
+        "speed": "17.62 Mph",
+        "bar": 64,
+        "barPosition": 57,
+        "vbar": 96,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Blaydon CC",
+        "position": "70",
+        "time": "0:50:41",
+        "speed": "21.31 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 87,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 64,
+    "averagePointsPerMediumRace": 63,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 63.5,
+    "remainingShortPoints": 176,
+    "remainingMediumPoints": 297,
+    "remainingLongPoints": 120,
+    "remainingPoints": 593,
+    "predictedFinalPoints": 127,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 64,
+      "medium": 63,
+      "long": 0,
+      "grand": 127
+    },
+    "predictedFinalPosition": 184
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Blaydon CC",
+        "position": "64",
+        "time": "0:33:43",
+        "speed": "17.62 Mph",
+        "bar": 64,
+        "barPosition": 57,
+        "vbar": 96,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Blaydon CC",
+        "position": "70",
+        "time": "0:50:41",
+        "speed": "21.31 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 87,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 96,
+    "averagePointsPerMediumRace": 87,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 91.5,
+    "remainingShortPoints": 144,
+    "remainingMediumPoints": 273,
+    "remainingLongPoints": 120,
+    "remainingPoints": 537,
+    "predictedFinalPoints": 183,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 96,
+      "medium": 87,
+      "long": 0,
+      "grand": 183
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14649",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+      "course": "M18",
+      "distance": 18,
+      "fee": 8.5,
+      "date": "25 March 2017",
+      "club": "Blaydon CC",
+      "position": "70",
+      "time": "0:50:41",
+      "speed": "21.31 Mph",
+      "bar": 63,
+      "barPosition": 58,
+      "vbar": 87,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Blaydon CC",
+      "position": "64",
+      "time": "0:33:43",
+      "speed": "17.62 Mph",
+      "bar": 64,
+      "barPosition": 57,
+      "vbar": 96,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 185,
+  "barHistory": [
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 95
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 124
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 138
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 149
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 161
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 180
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 193
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 202
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 129
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 135
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 146
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 150
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 155
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 157
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 159
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 165
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 171
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 174
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 179
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 180
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 182
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 64,
+        "medium": 63,
+        "long": 0,
+        "grand": 127
+      },
+      "position": 185
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 182,
+      "id": "16429",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 181,
+      "name": "Simon Bussey",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 51
+    },
+    {
+      "position": 183,
+      "id": "18828",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 182,
+      "name": "Kyle Spence",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 68.5,
+      "predictedFinalPoints": 137,
+      "grandTotal": 137,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 184,
+      "id": "10722",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 183,
+      "name": "Jen McMahon",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 68,
+      "predictedFinalPoints": 136,
+      "grandTotal": 136,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 76
+    },
+    {
+      "position": 185,
+      "id": "2123",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 184,
+      "name": "Wayne Baker",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 63.5,
+      "predictedFinalPoints": 127,
+      "grandTotal": 127,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 186,
+      "id": "6675",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 185,
+      "name": "Ian Carter",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 60.5,
+      "predictedFinalPoints": 121,
+      "grandTotal": 121,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 121
+    },
+    {
+      "position": 187,
+      "id": "2373",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 186,
+      "name": "Graham Crammond",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 119,
+      "grandTotal": 119,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 188,
+      "id": "3247",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 188,
+      "name": "Steve Carr",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 58.5,
+      "predictedFinalPoints": 117,
+      "grandTotal": 117,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 42
+    }
+  ]
+}

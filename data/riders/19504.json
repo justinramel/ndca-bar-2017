@@ -1,0 +1,380 @@
+{
+  "id": "19504",
+  "name": "Lee Fothergill",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Blaydon CC",
+        "position": "35",
+        "time": "0:44:52",
+        "speed": "18.72 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 90,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 90,
+    "remainingShortPoints": 150,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 630,
+    "predictedFinalPoints": 90,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 90,
+      "medium": 0,
+      "long": 0,
+      "grand": 90
+    },
+    "predictedFinalPosition": 223
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Blaydon CC",
+        "position": "35",
+        "time": "0:44:52",
+        "speed": "18.72 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 108,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108,
+    "remainingShortPoints": 132,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 612,
+    "predictedFinalPoints": 108,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 108,
+      "medium": 0,
+      "long": 0,
+      "grand": 108
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Blaydon CC",
+      "position": "35",
+      "time": "0:44:52",
+      "speed": "18.72 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 223,
+  "barHistory": [
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 206
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 208
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 215
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 218
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 220
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 223
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 220,
+      "id": "12103",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 220,
+      "name": "Malcolm West",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 92,
+      "grandTotal": 92,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 221,
+      "id": "18680",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 221,
+      "name": "Matthew Sutcliffe",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 92,
+      "grandTotal": 92,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 222,
+      "id": "12616",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 222,
+      "name": "Michael Woodhouse",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 90,
+      "grandTotal": 90,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 223,
+      "id": "19504",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 223,
+      "name": "Lee Fothergill",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 90,
+      "grandTotal": 90,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 224,
+      "id": "17221",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 224,
+      "name": "Jonathan Caisley",
+      "club": "Northumbria Police C.C.",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 225,
+      "id": "19732",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 225,
+      "name": "James Hogg",
+      "club": "GS Metro",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 226,
+      "id": "7068",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 226,
+      "name": "Chris Annable",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 89,
+      "grandTotal": 89,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

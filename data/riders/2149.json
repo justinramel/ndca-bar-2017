@@ -1,0 +1,517 @@
+{
+  "id": "2149",
+  "name": "Derek McGuire",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Alnwick Cycling Club",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "45",
+        "time": "1:12:40",
+        "speed": "20.64 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "69",
+        "time": "1:06:54",
+        "speed": "22.42 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 88,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 77.5,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 77.5,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 205,
+    "remainingLongPoints": 120,
+    "remainingPoints": 565,
+    "predictedFinalPoints": 155,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 155,
+      "long": 0,
+      "grand": 155
+    },
+    "predictedFinalPosition": 178
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "45",
+        "time": "1:12:40",
+        "speed": "20.64 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "69",
+        "time": "1:06:54",
+        "speed": "22.42 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 88,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 95,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 170,
+    "remainingLongPoints": 120,
+    "remainingPoints": 530,
+    "predictedFinalPoints": 190,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 190,
+      "long": 0,
+      "grand": 190
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "69",
+      "time": "1:06:54",
+      "speed": "22.42 Mph",
+      "bar": 63,
+      "barPosition": 58,
+      "vbar": 88,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "45",
+      "time": "1:12:40",
+      "speed": "20.64 Mph",
+      "bar": 92,
+      "barPosition": 29,
+      "vbar": 102,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 179,
+  "barHistory": [
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 255
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 262
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 266
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 274
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 276
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 283
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 63,
+        "long": 0,
+        "grand": 63
+      },
+      "position": 284
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 155,
+        "long": 0,
+        "grand": 155
+      },
+      "position": 172
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 155,
+        "long": 0,
+        "grand": 155
+      },
+      "position": 174
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 155,
+        "long": 0,
+        "grand": 155
+      },
+      "position": 176
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 155,
+        "long": 0,
+        "grand": 155
+      },
+      "position": 179
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 176,
+      "id": "9473",
+      "pointsDirection": -108,
+      "barPredictedFinalPosition": 175,
+      "name": "Graeme Huston",
+      "club": "GS Metro",
+      "averagePointsPerRace": 81.5,
+      "predictedFinalPoints": 163,
+      "grandTotal": 163,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 177,
+      "id": "6464",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 176,
+      "name": "Melanie Annable",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 79.5,
+      "predictedFinalPoints": 159,
+      "grandTotal": 159,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 178,
+      "id": "7758",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 177,
+      "name": "Craig Bell",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 77.5,
+      "predictedFinalPoints": 155,
+      "grandTotal": 155,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 179,
+      "id": "2149",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 178,
+      "name": "Derek McGuire",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 77.5,
+      "predictedFinalPoints": 155,
+      "grandTotal": 155,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 180,
+      "id": "92",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 179,
+      "name": "Mick Chappel",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 76,
+      "predictedFinalPoints": 152,
+      "grandTotal": 152,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 181,
+      "id": "11392",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 180,
+      "name": "Sheena Harrison",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 74.5,
+      "predictedFinalPoints": 149,
+      "grandTotal": 149,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 182,
+      "id": "16429",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 181,
+      "name": "Simon Bussey",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 69.5,
+      "predictedFinalPoints": 139,
+      "grandTotal": 139,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 51
+    }
+  ]
+}

@@ -1,0 +1,670 @@
+{
+  "id": "4627",
+  "name": "Joe Applegarth",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Houghton CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Houghton CC",
+        "position": "35",
+        "time": "1:18:10",
+        "speed": "16.12 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 104,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Houghton CC",
+        "position": "71",
+        "time": "1:13:24",
+        "speed": "17.17 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 88,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Houghton CC",
+        "position": "86",
+        "time": "3:47:24",
+        "speed": "12.40 Mph",
+        "bar": 60,
+        "barPosition": 61,
+        "vbar": 80,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 79.5,
+    "averagePointsPerLongRace": 60,
+    "averagePointsPerRace": 73,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 201,
+    "remainingLongPoints": 60,
+    "remainingPoints": 501,
+    "predictedFinalPoints": 298.5,
+    "pointsDirection": -47,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 159,
+      "long": 60,
+      "grand": 219
+    },
+    "predictedFinalPosition": 134
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Houghton CC",
+        "position": "35",
+        "time": "1:18:10",
+        "speed": "16.12 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 104,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Houghton CC",
+        "position": "71",
+        "time": "1:13:24",
+        "speed": "17.17 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 88,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Houghton CC",
+        "position": "86",
+        "time": "3:47:24",
+        "speed": "12.40 Mph",
+        "bar": 60,
+        "barPosition": 61,
+        "vbar": 80,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 1,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 96,
+    "averagePointsPerLongRace": 80,
+    "averagePointsPerRace": 90.66666666666667,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 168,
+    "remainingLongPoints": 40,
+    "remainingPoints": 448,
+    "predictedFinalPoints": 368,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 192,
+      "long": 80,
+      "grand": 272
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Houghton CC",
+      "position": "71",
+      "time": "1:13:24",
+      "speed": "17.17 Mph",
+      "bar": 66,
+      "barPosition": 55,
+      "vbar": 88,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Houghton CC",
+      "position": "86",
+      "time": "3:47:24",
+      "speed": "12.40 Mph",
+      "bar": 60,
+      "barPosition": 61,
+      "vbar": 80,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Houghton CC",
+      "position": "35",
+      "time": "1:18:10",
+      "speed": "16.12 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 104,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 136,
+  "barHistory": [
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 135
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 146
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 157
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 0,
+        "grand": 66
+      },
+      "position": 176
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 117
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 123
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 130
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 136
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 139
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 147
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 151
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 156
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 158
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 160
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 166
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 172
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 175
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 180
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 181
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 66,
+        "long": 60,
+        "grand": 126
+      },
+      "position": 183
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 159,
+        "long": 60,
+        "grand": 219
+      },
+      "position": 136
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 133,
+      "id": "17702",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 103,
+      "name": "Mike Woodison",
+      "club": "GS Metro",
+      "averagePointsPerRace": 81.66666666666667,
+      "predictedFinalPoints": 490,
+      "grandTotal": 245,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 134,
+      "id": "4590",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 139,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 112.5,
+      "predictedFinalPoints": 225,
+      "grandTotal": 225,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 135,
+      "id": "19158",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 112,
+      "name": "Caroline Golightly",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 444,
+      "grandTotal": 222,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 69
+    },
+    {
+      "position": 136,
+      "id": "4627",
+      "pointsDirection": -47,
+      "barPredictedFinalPosition": 134,
+      "name": "Joe Applegarth",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 298.5,
+      "grandTotal": 219,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 137,
+      "id": "2734",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 114,
+      "name": "Lee Head",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 72.66666666666667,
+      "predictedFinalPoints": 435,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 134
+    },
+    {
+      "position": 138,
+      "id": "8823",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 140,
+      "name": "James Hadfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 108.5,
+      "predictedFinalPoints": 217,
+      "grandTotal": 217,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 139,
+      "id": "17838",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 141,
+      "name": "Timothy Brown",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 212,
+      "grandTotal": 212,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

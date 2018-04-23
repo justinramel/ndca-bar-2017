@@ -1,0 +1,496 @@
+{
+  "id": "18579",
+  "name": "Sue Rigby",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Allen Valley Velo",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Allen Valley Velo",
+        "position": "39",
+        "time": "1:28:10",
+        "speed": "16.88 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 112,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 96,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 96,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 264,
+    "remainingLongPoints": 120,
+    "remainingPoints": 624,
+    "predictedFinalPoints": 96,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 96,
+      "long": 0,
+      "grand": 96
+    },
+    "predictedFinalPosition": 209
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Allen Valley Velo",
+        "position": "39",
+        "time": "1:28:10",
+        "speed": "16.88 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 112,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 112,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 112,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 248,
+    "remainingLongPoints": 120,
+    "remainingPoints": 608,
+    "predictedFinalPoints": 112,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 112,
+      "long": 0,
+      "grand": 112
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Allen Valley Velo",
+        "position": "39",
+        "time": "1:28:10",
+        "speed": "16.88 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 112,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 120,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 120,
+    "remainingPoints": 600,
+    "predictedFinalPoints": 120,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 120,
+      "long": 0,
+      "grand": 120
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15202",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 8.5,
+      "date": "04 June 2017",
+      "club": "Allen Valley Velo",
+      "position": "39",
+      "time": "1:28:10",
+      "speed": "16.88 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 112,
+      "lbar": 120,
+      "jbar": 0
+    }
+  ],
+  "position": 208,
+  "barHistory": [
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 165
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 169
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 173
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 177
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 181
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 182
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 185
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 190
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 194
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 196
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 202
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 203
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 205
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 96,
+        "long": 0,
+        "grand": 96
+      },
+      "position": 208
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 205,
+      "id": "18663",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 205,
+      "name": "Steven Studley",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 98,
+      "predictedFinalPoints": 98,
+      "grandTotal": 98,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 206,
+      "id": "6914",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 206,
+      "name": "Colin Oxberry",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 97,
+      "grandTotal": 97,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 207,
+      "id": "16746",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 207,
+      "name": "Steven Mulvey",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 208,
+      "id": "2845",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 208,
+      "name": "Mark Breeze",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 209,
+      "id": "18579",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 209,
+      "name": "Sue Rigby",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 210,
+      "id": "14938",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 210,
+      "name": "Neil Moore",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 211,
+      "id": "16388",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 211,
+      "name": "Carl Tuer",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

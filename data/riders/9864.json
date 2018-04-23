@@ -1,0 +1,344 @@
+{
+  "id": "9864",
+  "name": "Claire Cook",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "South Shields Velo Cycling Club",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "South Shields Velo Cycling Club",
+        "position": "49",
+        "time": "2:21:23",
+        "speed": "21.22 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 83,
+    "averagePointsPerRace": 83,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 37,
+    "remainingPoints": 637,
+    "predictedFinalPoints": 83,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 83
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 83,
+      "grand": 83
+    },
+    "predictedFinalPosition": 243
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "South Shields Velo Cycling Club",
+        "position": "49",
+        "time": "2:21:23",
+        "speed": "21.22 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 117,
+    "averagePointsPerRace": 117,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 3,
+    "remainingPoints": 603,
+    "predictedFinalPoints": 117,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 117
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 117,
+      "grand": 117
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15710",
+      "raceCategory": "long",
+      "name": "(B) N & Dca (N&Dca Champs)",
+      "course": "M509",
+      "distance": 50,
+      "fee": 8.5,
+      "date": "06 August 2017",
+      "club": "South Shields Velo Cycling Club",
+      "position": "49",
+      "time": "2:21:23",
+      "speed": "21.22 Mph",
+      "bar": 83,
+      "barPosition": 38,
+      "vbar": 0,
+      "lbar": 117,
+      "jbar": 0
+    }
+  ],
+  "position": 242,
+  "barHistory": [
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 238
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 239
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 242
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 239,
+      "id": "9973",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 239,
+      "name": "Jan Chisholm",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 240,
+      "id": "19467",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 240,
+      "name": "Andrea Clarke",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 241,
+      "id": "7669",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 241,
+      "name": "Paul Morrison",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 242,
+      "id": "9864",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 243,
+      "name": "Claire Cook",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 243,
+      "id": "1616",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 242,
+      "name": "Michael Wyngard",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 244,
+      "id": "10053",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 244,
+      "name": "Paul Borrowdale",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 245,
+      "id": "16536",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 245,
+      "name": "Adele Armitage",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

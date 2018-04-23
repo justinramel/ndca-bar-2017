@@ -1,0 +1,424 @@
+{
+  "id": "1799",
+  "name": "Carrie Brookes",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "North Tyneside Riders CC",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "62",
+        "time": "1:17:09",
+        "speed": "19.44 Mph",
+        "bar": 71,
+        "barPosition": 50,
+        "vbar": 95,
+        "lbar": 115,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 71,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 71,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 289,
+    "remainingLongPoints": 120,
+    "remainingPoints": 649,
+    "predictedFinalPoints": 71,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 71
+    },
+    "totals": {
+      "short": 0,
+      "medium": 71,
+      "long": 0,
+      "grand": 71
+    },
+    "predictedFinalPosition": 277
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "62",
+        "time": "1:17:09",
+        "speed": "19.44 Mph",
+        "bar": 71,
+        "barPosition": 50,
+        "vbar": 95,
+        "lbar": 115,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 95,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 265,
+    "remainingLongPoints": 120,
+    "remainingPoints": 625,
+    "predictedFinalPoints": 95,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 95
+    },
+    "totals": {
+      "short": 0,
+      "medium": 95,
+      "long": 0,
+      "grand": 95
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "North Tyneside Riders CC",
+        "position": "62",
+        "time": "1:17:09",
+        "speed": "19.44 Mph",
+        "bar": 71,
+        "barPosition": 50,
+        "vbar": 95,
+        "lbar": 115,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 115,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 115,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 245,
+    "remainingLongPoints": 120,
+    "remainingPoints": 605,
+    "predictedFinalPoints": 115,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 115
+    },
+    "totals": {
+      "short": 0,
+      "medium": 115,
+      "long": 0,
+      "grand": 115
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "North Tyneside Riders CC",
+      "position": "62",
+      "time": "1:17:09",
+      "speed": "19.44 Mph",
+      "bar": 71,
+      "barPosition": 50,
+      "vbar": 95,
+      "lbar": 115,
+      "jbar": 0
+    }
+  ],
+  "position": 276,
+  "barHistory": [
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 255
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 259
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 266
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 267
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 270
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 273
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 273
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 71,
+        "long": 0,
+        "grand": 71
+      },
+      "position": 276
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 273,
+      "id": "7255",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 273,
+      "name": "Sandy Cheung",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 73,
+      "grandTotal": 73,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 274,
+      "id": "8470",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 274,
+      "name": "Keith Fawcett",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 72,
+      "predictedFinalPoints": 72,
+      "grandTotal": 72,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 275,
+      "id": "17435",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 275,
+      "name": "Rob Hogarth",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 72,
+      "predictedFinalPoints": 72,
+      "grandTotal": 72,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 276,
+      "id": "1799",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 277,
+      "name": "Carrie Brookes",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 71
+    },
+    {
+      "position": 277,
+      "id": "7680",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 276,
+      "name": "joanne allan",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 278,
+      "id": "594",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 278,
+      "name": "Stephen Underhill",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 279,
+      "id": "16479",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 279,
+      "name": "Connor Prior",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

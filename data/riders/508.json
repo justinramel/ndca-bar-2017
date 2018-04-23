@@ -1,0 +1,691 @@
+{
+  "id": "508",
+  "name": "Terry Fountain",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Breeze Bikes RT",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "47",
+        "time": "0:24:02",
+        "speed": "24.97 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "29",
+        "time": "0:54:29",
+        "speed": "23.13 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 111,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 83,
+    "averagePointsPerMediumRace": 98,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 90.5,
+    "remainingShortPoints": 157,
+    "remainingMediumPoints": 262,
+    "remainingLongPoints": 120,
+    "remainingPoints": 539,
+    "predictedFinalPoints": 181,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 83
+    },
+    "totals": {
+      "short": 83,
+      "medium": 98,
+      "long": 0,
+      "grand": 181
+    },
+    "predictedFinalPosition": 160
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "47",
+        "time": "0:24:02",
+        "speed": "24.97 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "29",
+        "time": "0:54:29",
+        "speed": "23.13 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 111,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 102,
+    "averagePointsPerMediumRace": 111,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 106.5,
+    "remainingShortPoints": 138,
+    "remainingMediumPoints": 249,
+    "remainingLongPoints": 120,
+    "remainingPoints": 507,
+    "predictedFinalPoints": 213,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 102
+    },
+    "totals": {
+      "short": 102,
+      "medium": 111,
+      "long": 0,
+      "grand": 213
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14700",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 8.5,
+      "date": "02 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "29",
+      "time": "0:54:29",
+      "speed": "23.13 Mph",
+      "bar": 98,
+      "barPosition": 23,
+      "vbar": 111,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "47",
+      "time": "0:24:02",
+      "speed": "24.97 Mph",
+      "bar": 83,
+      "barPosition": 38,
+      "vbar": 102,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Breeze Bikes RT",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Breeze Bikes RT",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 161,
+  "barHistory": [
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 0,
+        "grand": 0
+      },
+      "position": 173
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 86
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 99
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 73
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 82
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 93
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 102
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 109
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 113
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 118
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 126
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 134
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 143
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 150
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 152
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 156
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 157
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 159
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 83,
+        "medium": 98,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 161
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "2 x DNS"
+    },
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 158,
+      "id": "6348",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 157,
+      "name": "Josh Craven",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 92.5,
+      "predictedFinalPoints": 185,
+      "grandTotal": 185,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 159,
+      "id": "17976",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 158,
+      "name": "Scott McCance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 160,
+      "id": "8994",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 159,
+      "name": "Peter Searle",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 161,
+      "id": "508",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 160,
+      "name": "Terry Fountain",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 162,
+      "id": "2955",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 161,
+      "name": "Neil Foster",
+      "club": "Adept Precision RT",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 180,
+      "grandTotal": 180,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 163,
+      "id": "13678",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 162,
+      "name": "Paul Tyler",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 91
+    },
+    {
+      "position": 164,
+      "id": "9698",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 163,
+      "name": "Tracey Sample",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

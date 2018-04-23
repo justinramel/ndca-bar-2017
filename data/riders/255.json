@@ -1,0 +1,995 @@
+{
+  "id": "255",
+  "name": "Hedley Fletcher",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Blaydon CC",
+        "position": "5",
+        "time": "0:21:17",
+        "speed": "25.37 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Blaydon CC",
+        "position": "11",
+        "time": "0:37:27",
+        "speed": "22.43 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Blaydon CC",
+        "position": "4",
+        "time": "1:02:18",
+        "speed": "25.04 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Ryton Tri Club",
+        "position": "8",
+        "time": "0:49:39",
+        "speed": "25.38 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Blaydon CC",
+        "position": "8",
+        "time": "1:14:51",
+        "speed": "19.88 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Blaydon CC",
+        "position": "13",
+        "time": "1:55:20",
+        "speed": "20.81 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 114.5,
+    "averagePointsPerMediumRace": 116.66666666666667,
+    "averagePointsPerLongRace": 118,
+    "averagePointsPerRace": 116.16666666666667,
+    "remainingShortPoints": 11,
+    "remainingMediumPoints": 10,
+    "remainingLongPoints": 2,
+    "remainingPoints": 23,
+    "predictedFinalPoints": 697,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 118
+    },
+    "totals": {
+      "short": 229,
+      "medium": 350,
+      "long": 118,
+      "grand": 697
+    },
+    "predictedFinalPosition": 8
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Blaydon CC",
+        "position": "11",
+        "time": "0:37:27",
+        "speed": "22.43 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Blaydon CC",
+        "position": "5",
+        "time": "0:21:17",
+        "speed": "25.37 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 117,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Blaydon CC",
+        "position": "8",
+        "time": "1:14:51",
+        "speed": "19.88 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Blaydon CC",
+        "position": "4",
+        "time": "1:02:18",
+        "speed": "25.04 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Ryton Tri Club",
+        "position": "8",
+        "time": "0:49:39",
+        "speed": "25.38 Mph",
+        "bar": 116,
+        "barPosition": 5,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "14959",
+        "raceCategory": "long",
+        "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 9.5,
+        "date": "07 May 2017",
+        "club": "Blaydon CC",
+        "position": "13",
+        "time": "1:55:20",
+        "speed": "20.81 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "averagePointsPerShortRace": 117.5,
+    "averagePointsPerMediumRace": 118,
+    "averagePointsPerLongRace": 120,
+    "averagePointsPerRace": 118.16666666666667,
+    "remainingShortPoints": 5,
+    "remainingMediumPoints": 6,
+    "remainingLongPoints": 0,
+    "remainingPoints": 11,
+    "predictedFinalPoints": 709,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 120
+    },
+    "totals": {
+      "short": 235,
+      "medium": 354,
+      "long": 120,
+      "grand": 709
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14610",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "18 March 2017",
+      "club": "Ryton Tri Club",
+      "position": "8",
+      "time": "0:49:39",
+      "speed": "25.38 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 116,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Blaydon CC",
+      "position": "13",
+      "time": "1:55:20",
+      "speed": "20.81 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Blaydon CC",
+      "position": "12",
+      "time": "2:08:04",
+      "speed": "22.02 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Blaydon CC",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15202",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 8.5,
+      "date": "04 June 2017",
+      "club": "Blaydon CC",
+      "position": "8",
+      "time": "1:14:51",
+      "speed": "19.88 Mph",
+      "bar": 116,
+      "barPosition": 5,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Blaydon CC",
+      "position": "19",
+      "time": "0:57:02",
+      "speed": "26.30 Mph",
+      "bar": 105,
+      "barPosition": 16,
+      "vbar": 107,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Blaydon CC",
+      "position": "5",
+      "time": "0:21:17",
+      "speed": "25.37 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 117,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Blaydon CC",
+      "position": "23",
+      "time": "0:21:54",
+      "speed": "27.40 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 113,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Blaydon CC",
+      "position": "11",
+      "time": "0:37:27",
+      "speed": "22.43 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Blaydon CC",
+      "position": "4",
+      "time": "1:02:18",
+      "speed": "25.04 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Blaydon CC",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15741",
+      "raceCategory": "long",
+      "name": "(B) Tyneside Vagabonds Cc (N&Dca Champs)(Cheques To M Reed)",
+      "course": "M100/20",
+      "distance": 100,
+      "fee": 10,
+      "date": "13 August 2017",
+      "club": "Blaydon CC",
+      "position": "4",
+      "time": "4:11:07",
+      "speed": "23.89 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 8,
+  "barHistory": [
+    {
+      "eventId": "14610",
+      "date": "18 March 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 5
+    },
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 33
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 46
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 69
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 76
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 104
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 118,
+        "grand": 234
+      },
+      "position": 52
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 118,
+        "grand": 234
+      },
+      "position": 60
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 118,
+        "grand": 234
+      },
+      "position": 68
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 118,
+        "grand": 234
+      },
+      "position": 83
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 232,
+        "long": 118,
+        "grand": 350
+      },
+      "position": 45
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 232,
+        "long": 118,
+        "grand": 350
+      },
+      "position": 48
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 232,
+        "long": 118,
+        "grand": 350
+      },
+      "position": 51
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 337,
+        "long": 118,
+        "grand": 455
+      },
+      "position": 39
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 117,
+        "medium": 337,
+        "long": 118,
+        "grand": 572
+      },
+      "position": 26
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 117,
+        "medium": 337,
+        "long": 118,
+        "grand": 572
+      },
+      "position": 30
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 117,
+        "medium": 337,
+        "long": 118,
+        "grand": 572
+      },
+      "position": 34
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 220,
+        "medium": 337,
+        "long": 118,
+        "grand": 675
+      },
+      "position": 9
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 229,
+        "medium": 337,
+        "long": 118,
+        "grand": 684
+      },
+      "position": 9
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 229,
+        "medium": 350,
+        "long": 118,
+        "grand": 697
+      },
+      "position": 5
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 229,
+        "medium": 350,
+        "long": 118,
+        "grand": 697
+      },
+      "position": 5
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 229,
+        "medium": 350,
+        "long": 118,
+        "grand": 697
+      },
+      "position": 6
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 229,
+        "medium": 350,
+        "long": 118,
+        "grand": 697
+      },
+      "position": 7
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 229,
+        "medium": 350,
+        "long": 118,
+        "grand": 697
+      },
+      "position": 8
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "3 x 3rd BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "6 x Top 5 BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "8 x Top 10 BAR"
+    },
+    {
+      "cssclass": "tag is-black",
+      "text": "2 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 5,
+      "id": "1033",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 5,
+      "name": "Steven Craggs",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117.16666666666667,
+      "predictedFinalPoints": 703,
+      "grandTotal": 703,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 218
+    },
+    {
+      "position": 6,
+      "id": "1502",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 6,
+      "name": "Justin Ramel",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 702,
+      "grandTotal": 702,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 219
+    },
+    {
+      "position": 7,
+      "id": "866",
+      "pointsDirection": -1,
+      "barPredictedFinalPosition": 7,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116.16666666666667,
+      "predictedFinalPoints": 697,
+      "grandTotal": 697,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 205
+    },
+    {
+      "position": 8,
+      "id": "255",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 8,
+      "name": "Hedley Fletcher",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 116.16666666666667,
+      "predictedFinalPoints": 697,
+      "grandTotal": 697,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 118
+    },
+    {
+      "position": 9,
+      "id": "4367",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 9,
+      "name": "chris mather",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 115.33333333333333,
+      "predictedFinalPoints": 692,
+      "grandTotal": 692,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 446
+    },
+    {
+      "position": 10,
+      "id": "9684",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 10,
+      "name": "darren williamson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 115,
+      "predictedFinalPoints": 690,
+      "grandTotal": 690,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 225
+    },
+    {
+      "position": 11,
+      "id": "3037",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 11,
+      "name": "Nick Badcock",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 113.5,
+      "predictedFinalPoints": 681,
+      "grandTotal": 681,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 306
+    }
+  ]
+}

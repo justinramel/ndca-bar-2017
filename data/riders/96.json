@@ -1,0 +1,870 @@
+{
+  "id": "96",
+  "name": "Richard Exley",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Gosforth RC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Gosforth RC",
+        "position": "33",
+        "time": "0:36:55",
+        "speed": "21.13 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 106,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Gosforth RC",
+        "position": "69",
+        "time": "0:24:57",
+        "speed": "24.05 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 100,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Gosforth RC",
+        "position": "39",
+        "time": "1:09:16",
+        "speed": "21.66 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Gosforth RC",
+        "position": "32",
+        "time": "1:03:17",
+        "speed": "19.91 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 106,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Gosforth RC",
+        "position": "40",
+        "time": "1:22:56",
+        "speed": "18.81 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 103,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Gosforth RC",
+        "position": "69",
+        "time": "2:39:28",
+        "speed": "17.68 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 92,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 80,
+    "averagePointsPerMediumRace": 94,
+    "averagePointsPerLongRace": 70,
+    "averagePointsPerRace": 85.33333333333333,
+    "remainingShortPoints": 80,
+    "remainingMediumPoints": 78,
+    "remainingLongPoints": 50,
+    "remainingPoints": 208,
+    "predictedFinalPoints": 512,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 53
+    },
+    "totals": {
+      "short": 160,
+      "medium": 282,
+      "long": 70,
+      "grand": 512
+    },
+    "predictedFinalPosition": 43
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Gosforth RC",
+        "position": "33",
+        "time": "0:36:55",
+        "speed": "21.13 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 106,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Gosforth RC",
+        "position": "69",
+        "time": "0:24:57",
+        "speed": "24.05 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 100,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Gosforth RC",
+        "position": "54",
+        "time": "0:58:33",
+        "speed": "21.52 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Gosforth RC",
+        "position": "39",
+        "time": "1:09:16",
+        "speed": "21.66 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 108,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Gosforth RC",
+        "position": "32",
+        "time": "1:03:17",
+        "speed": "19.91 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 106,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Gosforth RC",
+        "position": "69",
+        "time": "2:39:28",
+        "speed": "17.68 Mph",
+        "bar": 70,
+        "barPosition": 51,
+        "vbar": 92,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "averagePointsPerShortRace": 103,
+    "averagePointsPerMediumRace": 107.33333333333333,
+    "averagePointsPerLongRace": 92,
+    "averagePointsPerRace": 103.33333333333333,
+    "remainingShortPoints": 34,
+    "remainingMediumPoints": 38,
+    "remainingLongPoints": 28,
+    "remainingPoints": 100,
+    "predictedFinalPoints": 620,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 95
+    },
+    "totals": {
+      "short": 206,
+      "medium": 322,
+      "long": 92,
+      "grand": 620
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Gosforth RC",
+      "position": "54",
+      "time": "0:58:33",
+      "speed": "21.52 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Gosforth RC",
+      "position": "81",
+      "time": "0:26:33",
+      "speed": "22.60 Mph",
+      "bar": 53,
+      "barPosition": 68,
+      "vbar": 95,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Gosforth RC",
+      "position": "69",
+      "time": "2:39:28",
+      "speed": "17.68 Mph",
+      "bar": 70,
+      "barPosition": 51,
+      "vbar": 92,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Gosforth RC",
+      "position": "33",
+      "time": "0:36:55",
+      "speed": "21.13 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 106,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Gosforth RC",
+      "position": "69",
+      "time": "0:24:57",
+      "speed": "24.05 Mph",
+      "bar": 66,
+      "barPosition": 55,
+      "vbar": 100,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Gosforth RC",
+      "position": "40",
+      "time": "1:22:56",
+      "speed": "18.81 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 103,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Gosforth RC",
+      "position": "39",
+      "time": "1:09:16",
+      "speed": "21.66 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 108,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Gosforth RC",
+      "position": "32",
+      "time": "1:03:17",
+      "speed": "19.91 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 106,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 43,
+  "barHistory": [
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 80,
+        "long": 0,
+        "grand": 80
+      },
+      "position": 115
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 80,
+        "long": 0,
+        "grand": 80
+      },
+      "position": 128
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 53,
+        "medium": 80,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 93
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 53,
+        "medium": 80,
+        "long": 0,
+        "grand": 133
+      },
+      "position": 106
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 53,
+        "medium": 80,
+        "long": 70,
+        "grand": 203
+      },
+      "position": 79
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 53,
+        "medium": 80,
+        "long": 70,
+        "grand": 203
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 53,
+        "medium": 80,
+        "long": 70,
+        "grand": 203
+      },
+      "position": 100
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 53,
+        "medium": 80,
+        "long": 70,
+        "grand": 203
+      },
+      "position": 103
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 147,
+        "medium": 80,
+        "long": 70,
+        "grand": 297
+      },
+      "position": 71
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 147,
+        "medium": 80,
+        "long": 70,
+        "grand": 297
+      },
+      "position": 76
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 147,
+        "medium": 80,
+        "long": 70,
+        "grand": 297
+      },
+      "position": 85
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 147,
+        "medium": 80,
+        "long": 70,
+        "grand": 297
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 147,
+        "medium": 80,
+        "long": 70,
+        "grand": 297
+      },
+      "position": 97
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 147,
+        "medium": 80,
+        "long": 70,
+        "grand": 297
+      },
+      "position": 105
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 160,
+        "medium": 80,
+        "long": 70,
+        "grand": 310
+      },
+      "position": 105
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 160,
+        "medium": 80,
+        "long": 70,
+        "grand": 310
+      },
+      "position": 105
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 160,
+        "medium": 170,
+        "long": 70,
+        "grand": 400
+      },
+      "position": 78
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 160,
+        "medium": 266,
+        "long": 70,
+        "grand": 496
+      },
+      "position": 33
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 160,
+        "medium": 266,
+        "long": 70,
+        "grand": 496
+      },
+      "position": 41
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 160,
+        "medium": 266,
+        "long": 70,
+        "grand": 496
+      },
+      "position": 42
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 160,
+        "medium": 282,
+        "long": 70,
+        "grand": 512
+      },
+      "position": 43
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 40,
+      "id": "2980",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 40,
+      "name": "Paul Robson",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 92.5,
+      "predictedFinalPoints": 555,
+      "grandTotal": 555,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 243
+    },
+    {
+      "position": 41,
+      "id": "6666",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 41,
+      "name": "David Swainson",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 92.33333333333333,
+      "predictedFinalPoints": 554,
+      "grandTotal": 554,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 94
+    },
+    {
+      "position": 42,
+      "id": "4497",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 42,
+      "name": "Raymond Bell",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 87.5,
+      "predictedFinalPoints": 525,
+      "grandTotal": 525,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 268
+    },
+    {
+      "position": 43,
+      "id": "96",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 43,
+      "name": "Richard Exley",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 85.33333333333333,
+      "predictedFinalPoints": 512,
+      "grandTotal": 512,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 53
+    },
+    {
+      "position": 44,
+      "id": "16901",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 44,
+      "name": "Peter Iffland",
+      "club": "Northumbria Police C.C.",
+      "averagePointsPerRace": 84.33333333333333,
+      "predictedFinalPoints": 506,
+      "grandTotal": 506,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 148
+    },
+    {
+      "position": 45,
+      "id": "3838",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 45,
+      "name": "Gemma Hutchins",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 84.16666666666667,
+      "predictedFinalPoints": 505,
+      "grandTotal": 505,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 227
+    },
+    {
+      "position": 46,
+      "id": "3953",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 46,
+      "name": "Hannah Baker",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 486,
+      "grandTotal": 486,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 197
+    }
+  ]
+}

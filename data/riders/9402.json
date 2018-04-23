@@ -1,0 +1,760 @@
+{
+  "id": "9402",
+  "name": "ROY PATTINSON",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Breeze Bikes RT",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "24",
+        "time": "1:23:36",
+        "speed": "17.80 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 111,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "42",
+        "time": "0:56:21",
+        "speed": "22.36 Mph",
+        "bar": 89,
+        "barPosition": 32,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "59",
+        "time": "0:59:47",
+        "speed": "21.08 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 96,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Breeze Bikes RT",
+        "position": "53",
+        "time": "2:27:58",
+        "speed": "19.06 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 91,
+    "averagePointsPerLongRace": 85,
+    "averagePointsPerRace": 89.5,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 87,
+    "remainingLongPoints": 35,
+    "remainingPoints": 362,
+    "predictedFinalPoints": 358,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 273,
+      "long": 85,
+      "grand": 358
+    },
+    "predictedFinalPosition": 126
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "24",
+        "time": "1:23:36",
+        "speed": "17.80 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 111,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "42",
+        "time": "0:56:21",
+        "speed": "22.36 Mph",
+        "bar": 89,
+        "barPosition": 32,
+        "vbar": 102,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "59",
+        "time": "0:59:47",
+        "speed": "21.08 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 96,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Breeze Bikes RT",
+        "position": "53",
+        "time": "2:27:58",
+        "speed": "19.06 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 4,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 103,
+    "averagePointsPerLongRace": 97,
+    "averagePointsPerRace": 101.5,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 51,
+    "remainingLongPoints": 23,
+    "remainingPoints": 314,
+    "predictedFinalPoints": 406,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 309,
+      "long": 97,
+      "grand": 406
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14610",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "18 March 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "59",
+      "time": "0:59:47",
+      "speed": "21.08 Mph",
+      "bar": 76,
+      "barPosition": 45,
+      "vbar": 96,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "42",
+      "time": "0:56:21",
+      "speed": "22.36 Mph",
+      "bar": 89,
+      "barPosition": 32,
+      "vbar": 102,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Breeze Bikes RT",
+      "position": "53",
+      "time": "2:27:58",
+      "speed": "19.06 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 97,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15202",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 8.5,
+      "date": "04 June 2017",
+      "club": "Breeze Bikes RT",
+      "position": "24",
+      "time": "1:23:36",
+      "speed": "17.80 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 111,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 95,
+  "barHistory": [
+    {
+      "eventId": "14610",
+      "date": "18 March 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 76,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 45
+    },
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 76,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 79
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 76,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 105
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 52
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 60
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 85
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 0,
+        "grand": 165
+      },
+      "position": 95
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 85,
+        "grand": 250
+      },
+      "position": 53
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 85,
+        "grand": 250
+      },
+      "position": 61
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 165,
+        "long": 85,
+        "grand": 250
+      },
+      "position": 75
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 42
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 44
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 47
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 63
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 69
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 75
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 81
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 84
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 84
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 89
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 91
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 93
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 94
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 273,
+        "long": 85,
+        "grand": 358
+      },
+      "position": 95
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 92,
+      "id": "8831",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 82,
+      "name": "Paul Lucas",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 90.25,
+      "predictedFinalPoints": 548,
+      "grandTotal": 361,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 84
+    },
+    {
+      "position": 93,
+      "id": "4354",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 107,
+      "name": "Tim Wilcock",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 479,
+      "grandTotal": 359,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 119
+    },
+    {
+      "position": 94,
+      "id": "6444",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 86,
+      "name": "Mark Tully",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 89.75,
+      "predictedFinalPoints": 537.3333333333334,
+      "grandTotal": 359,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 95,
+      "id": "9402",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 126,
+      "name": "ROY PATTINSON",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 358,
+      "grandTotal": 358,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 96,
+      "id": "2389",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 4,
+      "name": "Shaun Tyson",
+      "club": "Adept Precision RT",
+      "averagePointsPerRace": 119,
+      "predictedFinalPoints": 714,
+      "grandTotal": 357,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 118
+    },
+    {
+      "position": 97,
+      "id": "456",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 87,
+      "name": "David Donaldson",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 89,
+      "predictedFinalPoints": 534,
+      "grandTotal": 356,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 89
+    },
+    {
+      "position": 98,
+      "id": "6199",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 128,
+      "name": "Zeb Kyffin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 118.33333333333333,
+      "predictedFinalPoints": 355,
+      "grandTotal": 355,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 110
+    }
+  ]
+}

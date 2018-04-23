@@ -1,0 +1,820 @@
+{
+  "id": "15799",
+  "name": "Mark Ambury",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Cramlington CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Cramlington CC",
+        "position": "35",
+        "time": "0:23:19",
+        "speed": "25.73 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 105,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Cramlington CC",
+        "position": "63",
+        "time": "0:25:10",
+        "speed": "23.84 Mph",
+        "bar": 69,
+        "barPosition": 52,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Cramlington CC",
+        "position": "22",
+        "time": "1:02:20",
+        "speed": "24.06 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 112,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Cramlington CC",
+        "position": "30",
+        "time": "0:54:50",
+        "speed": "22.98 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Cramlington CC",
+        "position": "31",
+        "time": "1:03:44",
+        "speed": "23.54 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 83.5,
+    "averagePointsPerMediumRace": 98.66666666666667,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 92.6,
+    "remainingShortPoints": 73,
+    "remainingMediumPoints": 64,
+    "remainingLongPoints": 120,
+    "remainingPoints": 257,
+    "predictedFinalPoints": 561.6666666666666,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 165
+    },
+    "totals": {
+      "short": 167,
+      "medium": 296,
+      "long": 0,
+      "grand": 463
+    },
+    "predictedFinalPosition": 77
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Cramlington CC",
+        "position": "35",
+        "time": "0:23:19",
+        "speed": "25.73 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 105,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Cramlington CC",
+        "position": "63",
+        "time": "0:25:10",
+        "speed": "23.84 Mph",
+        "bar": 69,
+        "barPosition": 52,
+        "vbar": 97,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Cramlington CC",
+        "position": "22",
+        "time": "1:02:20",
+        "speed": "24.06 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 112,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Cramlington CC",
+        "position": "30",
+        "time": "0:54:50",
+        "speed": "22.98 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Cramlington CC",
+        "position": "31",
+        "time": "1:03:44",
+        "speed": "23.54 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 110.66666666666667,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 106.8,
+    "remainingShortPoints": 38,
+    "remainingMediumPoints": 28,
+    "remainingLongPoints": 120,
+    "remainingPoints": 186,
+    "predictedFinalPoints": 644.6666666666666,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 207
+    },
+    "totals": {
+      "short": 202,
+      "medium": 332,
+      "long": 0,
+      "grand": 534
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14649",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+      "course": "M18",
+      "distance": 18,
+      "fee": 8.5,
+      "date": "25 March 2017",
+      "club": "Cramlington CC",
+      "position": "46",
+      "time": "0:45:40",
+      "speed": "23.65 Mph",
+      "bar": 84,
+      "barPosition": 37,
+      "vbar": 100,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Cramlington CC",
+      "position": "30",
+      "time": "0:54:50",
+      "speed": "22.98 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Cramlington CC",
+      "position": "63",
+      "time": "0:25:10",
+      "speed": "23.84 Mph",
+      "bar": 69,
+      "barPosition": 52,
+      "vbar": 97,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "Cramlington CC",
+      "position": "35",
+      "time": "0:23:19",
+      "speed": "25.73 Mph",
+      "bar": 98,
+      "barPosition": 23,
+      "vbar": 105,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15392",
+      "raceCategory": "medium",
+      "name": "(B) Houghton Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "25 June 2017",
+      "club": "Cramlington CC",
+      "position": "22",
+      "time": "1:02:20",
+      "speed": "24.06 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 112,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Cramlington CC",
+      "position": "31",
+      "time": "1:03:44",
+      "speed": "23.54 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 72,
+  "barHistory": [
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 70
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 93
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 181,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 47
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 181,
+        "long": 0,
+        "grand": 181
+      },
+      "position": 54
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 69,
+        "medium": 181,
+        "long": 0,
+        "grand": 250
+      },
+      "position": 37
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 69,
+        "medium": 181,
+        "long": 0,
+        "grand": 250
+      },
+      "position": 46
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 69,
+        "medium": 181,
+        "long": 0,
+        "grand": 250
+      },
+      "position": 52
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 38
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 41
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 48
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 51
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 54
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 66
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 167,
+        "medium": 181,
+        "long": 0,
+        "grand": 348
+      },
+      "position": 73
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 167,
+        "medium": 284,
+        "long": 0,
+        "grand": 451
+      },
+      "position": 50
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 53
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 58
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 59
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 62
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 65
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 71
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 72
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 167,
+        "medium": 296,
+        "long": 0,
+        "grand": 463
+      },
+      "position": 72
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 69,
+      "id": "2727",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 61,
+      "name": "wayne coates",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 597.6666666666666,
+      "grandTotal": 495,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 82
+    },
+    {
+      "position": 70,
+      "id": "1078",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 73,
+      "name": "Bryan Laycock",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 96.2,
+      "predictedFinalPoints": 573.6666666666666,
+      "grandTotal": 481,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 71,
+      "id": "8401",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 8,
+      "name": "Dean Penfold",
+      "club": "Cestria Cycles Racing Team",
+      "averagePointsPerRace": 117.5,
+      "predictedFinalPoints": 704.6666666666666,
+      "grandTotal": 470,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 117
+    },
+    {
+      "position": 72,
+      "id": "15799",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 77,
+      "name": "Mark Ambury",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 92.6,
+      "predictedFinalPoints": 561.6666666666666,
+      "grandTotal": 463,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 165
+    },
+    {
+      "position": 73,
+      "id": "554",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 15,
+      "name": "Andrew Hall",
+      "club": "GS Metro",
+      "averagePointsPerRace": 115.75,
+      "predictedFinalPoints": 693.3333333333334,
+      "grandTotal": 463,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 114
+    },
+    {
+      "position": 74,
+      "id": "705",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 22,
+      "name": "Nev Martin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 114,
+      "predictedFinalPoints": 679,
+      "grandTotal": 456,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 225
+    },
+    {
+      "position": 75,
+      "id": "7785",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 84,
+      "name": "Phil Cook",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 91,
+      "predictedFinalPoints": 542.5,
+      "grandTotal": 455,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

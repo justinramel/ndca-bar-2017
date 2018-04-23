@@ -1,0 +1,982 @@
+{
+  "id": "1408",
+  "name": "Jennifer Holland",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Tyne Tri",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Tyne Tri",
+        "position": "36",
+        "time": "0:37:39",
+        "speed": "20.72 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 110,
+        "lbar": 119,
+        "jbar": 0
+      },
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Tyne Tri",
+        "position": "91",
+        "time": "0:28:21",
+        "speed": "21.16 Mph",
+        "bar": 45,
+        "barPosition": 76,
+        "vbar": 95,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Tyne Tri",
+        "position": "34",
+        "time": "1:05:57",
+        "speed": "19.11 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 108,
+        "lbar": 119,
+        "jbar": 0
+      },
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Tyne Tri",
+        "position": "44",
+        "time": "1:12:07",
+        "speed": "20.80 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 111,
+        "lbar": 118,
+        "jbar": 0
+      },
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Tyne Tri",
+        "position": "38",
+        "time": "1:20:29",
+        "speed": "19.38 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 109,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Tyne Tri",
+        "position": "78",
+        "time": "2:45:55",
+        "speed": "17.00 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 95,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 68,
+    "averagePointsPerMediumRace": 93,
+    "averagePointsPerLongRace": 66,
+    "averagePointsPerRace": 80.16666666666667,
+    "remainingShortPoints": 104,
+    "remainingMediumPoints": 81,
+    "remainingLongPoints": 54,
+    "remainingPoints": 239,
+    "predictedFinalPoints": 481,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 120
+    },
+    "totals": {
+      "short": 136,
+      "medium": 279,
+      "long": 66,
+      "grand": 481
+    },
+    "predictedFinalPosition": 47
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Tyne Tri",
+        "position": "36",
+        "time": "0:37:39",
+        "speed": "20.72 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 110,
+        "lbar": 119,
+        "jbar": 0
+      },
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Tyne Tri",
+        "position": "91",
+        "time": "0:28:21",
+        "speed": "21.16 Mph",
+        "bar": 45,
+        "barPosition": 76,
+        "vbar": 95,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Tyne Tri",
+        "position": "44",
+        "time": "1:12:07",
+        "speed": "20.80 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 111,
+        "lbar": 118,
+        "jbar": 0
+      },
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Tyne Tri",
+        "position": "38",
+        "time": "1:20:29",
+        "speed": "19.38 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 109,
+        "lbar": 118,
+        "jbar": 0
+      },
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Tyne Tri",
+        "position": "64",
+        "time": "1:02:19",
+        "speed": "20.22 Mph",
+        "bar": 73,
+        "barPosition": 48,
+        "vbar": 108,
+        "lbar": 120,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Tyne Tri",
+        "position": "78",
+        "time": "2:45:55",
+        "speed": "17.00 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 95,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "averagePointsPerShortRace": 102.5,
+    "averagePointsPerMediumRace": 109.33333333333333,
+    "averagePointsPerLongRace": 95,
+    "averagePointsPerRace": 104.66666666666667,
+    "remainingShortPoints": 35,
+    "remainingMediumPoints": 32,
+    "remainingLongPoints": 25,
+    "remainingPoints": 92,
+    "predictedFinalPoints": 628,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 199
+    },
+    "totals": {
+      "short": 205,
+      "medium": 328,
+      "long": 95,
+      "grand": 628
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Tyne Tri",
+        "position": "36",
+        "time": "0:37:39",
+        "speed": "20.72 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 110,
+        "lbar": 119,
+        "jbar": 0
+      },
+      {
+        "eventId": "14909",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders (N&Dca Champs)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "30 April 2017",
+        "club": "Tyne Tri",
+        "position": "91",
+        "time": "0:28:21",
+        "speed": "21.16 Mph",
+        "bar": 45,
+        "barPosition": 76,
+        "vbar": 95,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14821",
+        "raceCategory": "medium",
+        "name": "Wansbeck Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "22 April 2017",
+        "club": "Tyne Tri",
+        "position": "64",
+        "time": "1:02:19",
+        "speed": "20.22 Mph",
+        "bar": 73,
+        "barPosition": 48,
+        "vbar": 108,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Tyne Tri",
+        "position": "34",
+        "time": "1:05:57",
+        "speed": "19.11 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 108,
+        "lbar": 119,
+        "jbar": 0
+      },
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Tyne Tri",
+        "position": "38",
+        "time": "1:20:29",
+        "speed": "19.38 Mph",
+        "bar": 92,
+        "barPosition": 29,
+        "vbar": 109,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Tyne Tri",
+        "position": "78",
+        "time": "2:45:55",
+        "speed": "17.00 Mph",
+        "bar": 66,
+        "barPosition": 55,
+        "vbar": 95,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 119,
+    "averagePointsPerLongRace": 118,
+    "averagePointsPerRace": 118.5,
+    "remainingShortPoints": 4,
+    "remainingMediumPoints": 3,
+    "remainingLongPoints": 2,
+    "remainingPoints": 9,
+    "predictedFinalPoints": 711,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 234
+    },
+    "totals": {
+      "short": 236,
+      "medium": 357,
+      "long": 118,
+      "grand": 711
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14821",
+      "raceCategory": "medium",
+      "name": "Wansbeck Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "22 April 2017",
+      "club": "Tyne Tri",
+      "position": "64",
+      "time": "1:02:19",
+      "speed": "20.22 Mph",
+      "bar": 73,
+      "barPosition": 48,
+      "vbar": 108,
+      "lbar": 120,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Tyne Tri",
+      "position": "91",
+      "time": "0:28:21",
+      "speed": "21.16 Mph",
+      "bar": 45,
+      "barPosition": 76,
+      "vbar": 95,
+      "lbar": 117,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Tyne Tri",
+      "position": "78",
+      "time": "2:45:55",
+      "speed": "17.00 Mph",
+      "bar": 66,
+      "barPosition": 55,
+      "vbar": 95,
+      "lbar": 118,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Tyne Tri",
+      "position": "36",
+      "time": "0:37:39",
+      "speed": "20.72 Mph",
+      "bar": 91,
+      "barPosition": 30,
+      "vbar": 110,
+      "lbar": 119,
+      "jbar": 0
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Tyne Tri",
+      "position": "58",
+      "time": "1:14:45",
+      "speed": "20.07 Mph",
+      "bar": 75,
+      "barPosition": 46,
+      "vbar": 104,
+      "lbar": 117,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Tyne Tri",
+      "position": "38",
+      "time": "1:20:29",
+      "speed": "19.38 Mph",
+      "bar": 92,
+      "barPosition": 29,
+      "vbar": 109,
+      "lbar": 118,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Tyne Tri",
+      "position": "44",
+      "time": "1:12:07",
+      "speed": "20.80 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 111,
+      "lbar": 118,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Tyne Tri",
+      "position": "34",
+      "time": "1:05:57",
+      "speed": "19.11 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 108,
+      "lbar": 119,
+      "jbar": 0
+    }
+  ],
+  "position": 47,
+  "barHistory": [
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 124
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 137
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 45,
+        "medium": 73,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 101
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 45,
+        "medium": 73,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 110
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 45,
+        "medium": 73,
+        "long": 66,
+        "grand": 184
+      },
+      "position": 91
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 45,
+        "medium": 73,
+        "long": 66,
+        "grand": 184
+      },
+      "position": 100
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 45,
+        "medium": 73,
+        "long": 66,
+        "grand": 184
+      },
+      "position": 106
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 45,
+        "medium": 73,
+        "long": 66,
+        "grand": 184
+      },
+      "position": 110
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 136,
+        "medium": 73,
+        "long": 66,
+        "grand": 275
+      },
+      "position": 78
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 136,
+        "medium": 73,
+        "long": 66,
+        "grand": 275
+      },
+      "position": 85
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 136,
+        "medium": 73,
+        "long": 66,
+        "grand": 275
+      },
+      "position": 94
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 136,
+        "medium": 73,
+        "long": 66,
+        "grand": 275
+      },
+      "position": 97
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 136,
+        "medium": 73,
+        "long": 66,
+        "grand": 275
+      },
+      "position": 104
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 136,
+        "medium": 148,
+        "long": 66,
+        "grand": 350
+      },
+      "position": 85
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 136,
+        "medium": 148,
+        "long": 66,
+        "grand": 350
+      },
+      "position": 89
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 136,
+        "medium": 148,
+        "long": 66,
+        "grand": 350
+      },
+      "position": 89
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 136,
+        "medium": 240,
+        "long": 66,
+        "grand": 442
+      },
+      "position": 35
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 136,
+        "medium": 260,
+        "long": 66,
+        "grand": 462
+      },
+      "position": 37
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 136,
+        "medium": 260,
+        "long": 66,
+        "grand": 462
+      },
+      "position": 45
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 136,
+        "medium": 260,
+        "long": 66,
+        "grand": 462
+      },
+      "position": 45
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 136,
+        "medium": 279,
+        "long": 66,
+        "grand": 481
+      },
+      "position": 47
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 44,
+      "id": "16901",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 44,
+      "name": "Peter Iffland",
+      "club": "Northumbria Police C.C.",
+      "averagePointsPerRace": 84.33333333333333,
+      "predictedFinalPoints": 506,
+      "grandTotal": 506,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 148
+    },
+    {
+      "position": 45,
+      "id": "3838",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 45,
+      "name": "Gemma Hutchins",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 84.16666666666667,
+      "predictedFinalPoints": 505,
+      "grandTotal": 505,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 227
+    },
+    {
+      "position": 46,
+      "id": "3953",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 46,
+      "name": "Hannah Baker",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 486,
+      "grandTotal": 486,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 197
+    },
+    {
+      "position": 47,
+      "id": "1408",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 47,
+      "name": "Jennifer Holland",
+      "club": "Tyne Tri",
+      "averagePointsPerRace": 80.16666666666667,
+      "predictedFinalPoints": 481,
+      "grandTotal": 481,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 120
+    },
+    {
+      "position": 48,
+      "id": "3214",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 48,
+      "name": "Stephen Hill",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 77.5,
+      "predictedFinalPoints": 465,
+      "grandTotal": 465,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 52
+    },
+    {
+      "position": 49,
+      "id": "2927",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 49,
+      "name": "gareth davies",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 75.83333333333333,
+      "predictedFinalPoints": 455,
+      "grandTotal": 455,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 148
+    },
+    {
+      "position": 50,
+      "id": "964",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 50,
+      "name": "Paul Mitchell",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 438,
+      "grandTotal": 438,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 196
+    }
+  ]
+}

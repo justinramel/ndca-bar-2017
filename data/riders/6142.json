@@ -1,0 +1,529 @@
+{
+  "id": "6142",
+  "name": "John Paul Herron",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Derwentside CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Derwentside CC",
+        "position": "27",
+        "time": "0:41:55",
+        "speed": "20.04 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "Derwentside CC",
+        "position": "26",
+        "time": "1:10:58",
+        "speed": "21.98 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15202",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 8.5,
+        "date": "04 June 2017",
+        "club": "Derwentside CC",
+        "position": "37",
+        "time": "1:26:53",
+        "speed": "17.13 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 96,
+    "averagePointsPerMediumRace": 99,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 98,
+    "remainingShortPoints": 144,
+    "remainingMediumPoints": 162,
+    "remainingLongPoints": 120,
+    "remainingPoints": 426,
+    "predictedFinalPoints": 588,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 96,
+      "medium": 198,
+      "long": 0,
+      "grand": 294
+    },
+    "predictedFinalPosition": 66
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15202",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo (Lakes & Lancs Spoco)",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 8.5,
+      "date": "04 June 2017",
+      "club": "Derwentside CC",
+      "position": "37",
+      "time": "1:26:53",
+      "speed": "17.13 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Derwentside CC",
+      "position": "27",
+      "time": "0:41:55",
+      "speed": "20.04 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Derwentside CC",
+      "position": "26",
+      "time": "1:10:58",
+      "speed": "21.98 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 121,
+  "barHistory": [
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 163
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 167
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 171
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 174
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 178
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 179
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 182
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 0,
+        "grand": 97
+      },
+      "position": 188
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 96,
+        "medium": 97,
+        "long": 0,
+        "grand": 193
+      },
+      "position": 141
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 96,
+        "medium": 198,
+        "long": 0,
+        "grand": 294
+      },
+      "position": 113
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 96,
+        "medium": 198,
+        "long": 0,
+        "grand": 294
+      },
+      "position": 116
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 96,
+        "medium": 198,
+        "long": 0,
+        "grand": 294
+      },
+      "position": 119
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 96,
+        "medium": 198,
+        "long": 0,
+        "grand": 294
+      },
+      "position": 119
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 96,
+        "medium": 198,
+        "long": 0,
+        "grand": 294
+      },
+      "position": 121
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 118,
+      "id": "3218",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 52,
+      "name": "Mal Gray",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 100.33333333333333,
+      "predictedFinalPoints": 617,
+      "grandTotal": 301,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 119,
+      "id": "9296",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 80,
+      "name": "Kevin Hall",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 99.66666666666667,
+      "predictedFinalPoints": 548,
+      "grandTotal": 299,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 57
+    },
+    {
+      "position": 120,
+      "id": "19486",
+      "pointsDirection": -29,
+      "barPredictedFinalPosition": 64,
+      "name": "Mark Whaley",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 98.66666666666667,
+      "predictedFinalPoints": 592,
+      "grandTotal": 296,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 121,
+      "id": "6142",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 66,
+      "name": "John Paul Herron",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 98,
+      "predictedFinalPoints": 588,
+      "grandTotal": 294,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 122,
+      "id": "6215",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 74,
+      "name": "Dean Madden",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 96.66666666666667,
+      "predictedFinalPoints": 570,
+      "grandTotal": 290,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 212
+    },
+    {
+      "position": 123,
+      "id": "827",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 81,
+      "name": "Paul Whitehill",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 93.66666666666667,
+      "predictedFinalPoints": 548,
+      "grandTotal": 281,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 81
+    },
+    {
+      "position": 124,
+      "id": "2383",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 99,
+      "name": "Clive Horton",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 90.33333333333333,
+      "predictedFinalPoints": 502,
+      "grandTotal": 271,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

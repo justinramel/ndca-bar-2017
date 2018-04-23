@@ -1,0 +1,324 @@
+{
+  "id": "7877",
+  "name": "Kevin Sorlie",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Tyneside Vagabonds CC",
+  "inBar": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "36",
+        "time": "2:07:22",
+        "speed": "23.55 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 93,
+    "averagePointsPerRace": 93,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 27,
+    "remainingPoints": 627,
+    "predictedFinalPoints": 93,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 93
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 93,
+      "grand": 93
+    },
+    "predictedFinalPosition": 217
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15710",
+      "raceCategory": "long",
+      "name": "(B) N & Dca (N&Dca Champs)",
+      "course": "M509",
+      "distance": 50,
+      "fee": 8.5,
+      "date": "06 August 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "36",
+      "time": "2:07:22",
+      "speed": "23.55 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 215,
+  "barHistory": [
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 93,
+        "grand": 93
+      },
+      "position": 210
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 93,
+        "grand": 93
+      },
+      "position": 212
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 93,
+        "grand": 93
+      },
+      "position": 215
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 212,
+      "id": "18403",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 213,
+      "name": "Graeme Kirton",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 94
+    },
+    {
+      "position": 213,
+      "id": "6306",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 212,
+      "name": "BRENDON JACKSON",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 214,
+      "id": "539",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 214,
+      "name": "Ian Doughty",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 215,
+      "id": "7877",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 217,
+      "name": "Kevin Sorlie",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 93,
+      "grandTotal": 93,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 93
+    },
+    {
+      "position": 216,
+      "id": "5492",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 215,
+      "name": "Ivan Newton",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 93,
+      "grandTotal": 93,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 217,
+      "id": "925",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 216,
+      "name": "Paul Myers",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 93,
+      "grandTotal": 93,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 218,
+      "id": "5378",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 218,
+      "name": "Terry Ottaway",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 92,
+      "predictedFinalPoints": 92,
+      "grandTotal": 92,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

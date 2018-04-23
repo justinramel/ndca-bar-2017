@@ -1,0 +1,825 @@
+{
+  "id": "6872",
+  "name": "david robinson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Tyneside Vagabonds CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "18",
+        "time": "0:22:23",
+        "speed": "26.81 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "17",
+        "time": "0:22:00",
+        "speed": "24.55 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "7",
+        "time": "0:51:44",
+        "speed": "24.36 Mph",
+        "bar": 115,
+        "barPosition": 6,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "11",
+        "time": "1:00:19",
+        "speed": "24.87 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "25",
+        "time": "0:42:50",
+        "speed": "25.21 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 107.5,
+    "averagePointsPerMediumRace": 108.66666666666667,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 108.2,
+    "remainingShortPoints": 25,
+    "remainingMediumPoints": 34,
+    "remainingLongPoints": 120,
+    "remainingPoints": 179,
+    "predictedFinalPoints": 649.6666666666666,
+    "pointsDirection": -2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 215,
+      "medium": 326,
+      "long": 0,
+      "grand": 541
+    },
+    "predictedFinalPosition": 34
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15075",
+        "raceCategory": "short",
+        "name": "Cramlington Cc (Cheques To John Hopper)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "20 May 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "18",
+        "time": "0:22:23",
+        "speed": "26.81 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "17",
+        "time": "0:22:00",
+        "speed": "24.55 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "7",
+        "time": "0:51:44",
+        "speed": "24.36 Mph",
+        "bar": 115,
+        "barPosition": 6,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "11",
+        "time": "1:00:19",
+        "speed": "24.87 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 118,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "25",
+        "time": "0:42:50",
+        "speed": "25.21 Mph",
+        "bar": 99,
+        "barPosition": 22,
+        "vbar": 114,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 5,
+    "complete": false,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 117,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 117.4,
+    "remainingShortPoints": 4,
+    "remainingMediumPoints": 9,
+    "remainingLongPoints": 120,
+    "remainingPoints": 133,
+    "predictedFinalPoints": 704,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 236,
+      "medium": 351,
+      "long": 0,
+      "grand": 587
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14649",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+      "course": "M18",
+      "distance": 18,
+      "fee": 8.5,
+      "date": "25 March 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "25",
+      "time": "0:42:50",
+      "speed": "25.21 Mph",
+      "bar": 99,
+      "barPosition": 22,
+      "vbar": 114,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15075",
+      "raceCategory": "short",
+      "name": "Cramlington Cc (Cheques To John Hopper)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "20 May 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "18",
+      "time": "0:22:23",
+      "speed": "26.81 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "11",
+      "time": "1:00:19",
+      "speed": "24.87 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "33",
+      "time": "0:58:37",
+      "speed": "25.59 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "17",
+      "time": "0:22:00",
+      "speed": "24.55 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "7",
+      "time": "0:51:44",
+      "speed": "24.36 Mph",
+      "bar": 115,
+      "barPosition": 6,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 61,
+  "barHistory": [
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 53
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 70
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 85
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 97
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 120
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 131
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 99,
+        "long": 0,
+        "grand": 99
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 108,
+        "medium": 99,
+        "long": 0,
+        "grand": 207
+      },
+      "position": 87
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 108,
+        "medium": 99,
+        "long": 0,
+        "grand": 207
+      },
+      "position": 98
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 108,
+        "medium": 99,
+        "long": 0,
+        "grand": 207
+      },
+      "position": 101
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 108,
+        "medium": 99,
+        "long": 0,
+        "grand": 207
+      },
+      "position": 107
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 108,
+        "medium": 211,
+        "long": 0,
+        "grand": 319
+      },
+      "position": 68
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 108,
+        "medium": 304,
+        "long": 0,
+        "grand": 412
+      },
+      "position": 49
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 31
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 35
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 40
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 42
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 45
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 53
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 55
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 62
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 215,
+        "medium": 304,
+        "long": 0,
+        "grand": 519
+      },
+      "position": 63
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 215,
+        "medium": 326,
+        "long": 0,
+        "grand": 541
+      },
+      "position": 61
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x Top 10 BAR"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 58,
+      "id": "102",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 11,
+      "name": "Adam Jarps",
+      "club": "Manilla Cycling",
+      "averagePointsPerRace": 116.8,
+      "predictedFinalPoints": 700,
+      "grandTotal": 584,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 229
+    },
+    {
+      "position": 59,
+      "id": "6124",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 17,
+      "name": "Ian Norris",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 115.2,
+      "predictedFinalPoints": 692,
+      "grandTotal": 576,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 60,
+      "id": "683",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 19,
+      "name": "Michael Sloanes",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 114.8,
+      "predictedFinalPoints": 688.5,
+      "grandTotal": 574,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 116
+    },
+    {
+      "position": 61,
+      "id": "6872",
+      "pointsDirection": -2,
+      "barPredictedFinalPosition": 34,
+      "name": "david robinson",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 108.2,
+      "predictedFinalPoints": 649.6666666666666,
+      "grandTotal": 541,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 62,
+      "id": "6744",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 36,
+      "name": "Adam Wilson",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 108,
+      "predictedFinalPoints": 645.3333333333334,
+      "grandTotal": 540,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 205
+    },
+    {
+      "position": 63,
+      "id": "9761",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 38,
+      "name": "Dan Meggison",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 107.2,
+      "predictedFinalPoints": 644,
+      "grandTotal": 536,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 217
+    },
+    {
+      "position": 64,
+      "id": "4952",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 44,
+      "name": "Michael Johnson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 104.6,
+      "predictedFinalPoints": 628,
+      "grandTotal": 523,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "id": "7255",
+  "name": "Sandy Cheung",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "Cestria C.C.",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "Cestria C.C.",
+        "position": "52",
+        "time": "1:43:17",
+        "speed": "15.69 Mph",
+        "bar": 73,
+        "barPosition": 48,
+        "vbar": 0,
+        "lbar": 119,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 73,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 73,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 287,
+    "remainingLongPoints": 120,
+    "remainingPoints": 647,
+    "predictedFinalPoints": 73,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 73,
+      "long": 0,
+      "grand": 73
+    },
+    "predictedFinalPosition": 273
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "Cestria C.C.",
+        "position": "52",
+        "time": "1:43:17",
+        "speed": "15.69 Mph",
+        "bar": 73,
+        "barPosition": 48,
+        "vbar": 0,
+        "lbar": 119,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 119,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 241,
+    "remainingLongPoints": 120,
+    "remainingPoints": 601,
+    "predictedFinalPoints": 119,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 119,
+      "long": 0,
+      "grand": 119
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14700",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 8.5,
+      "date": "02 April 2017",
+      "club": "Cestria C.C.",
+      "position": "52",
+      "time": "1:43:17",
+      "speed": "15.69 Mph",
+      "bar": 73,
+      "barPosition": 48,
+      "vbar": 0,
+      "lbar": 119,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Cestria C.C.",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Cestria C.C.",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "Cestria C.C.",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 273,
+  "barHistory": [
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 110
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 123
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 136
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 150
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 165
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 178
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 188
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 196
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 214
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 224
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 230
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 236
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 243
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 247
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 252
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 256
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 263
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 264
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 267
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 270
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 270
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 73,
+        "long": 0,
+        "grand": 73
+      },
+      "position": 273
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "3 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 270,
+      "id": "18377",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 270,
+      "name": "Sean Bell",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 74,
+      "grandTotal": 74,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 271,
+      "id": "6730",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 271,
+      "name": "Cassandra Greaves",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 74,
+      "grandTotal": 74,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 272,
+      "id": "17854",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 272,
+      "name": "Olivia Hanlon",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 74,
+      "grandTotal": 74,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 273,
+      "id": "7255",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 273,
+      "name": "Sandy Cheung",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 73,
+      "grandTotal": 73,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 274,
+      "id": "8470",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 274,
+      "name": "Keith Fawcett",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 72,
+      "predictedFinalPoints": 72,
+      "grandTotal": 72,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 275,
+      "id": "17435",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 275,
+      "name": "Rob Hogarth",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 72,
+      "predictedFinalPoints": 72,
+      "grandTotal": 72,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 276,
+      "id": "1799",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 277,
+      "name": "Carrie Brookes",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 71,
+      "predictedFinalPoints": 71,
+      "grandTotal": 71,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 71
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "id": "19158",
+  "name": "Caroline Golightly",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Sunderland Clarion",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "74",
+        "time": "0:30:14",
+        "speed": "19.85 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 91,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "50",
+        "time": "1:17:32",
+        "speed": "19.35 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 100,
+        "lbar": 117,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "64",
+        "time": "1:21:36",
+        "speed": "18.38 Mph",
+        "bar": 69,
+        "barPosition": 52,
+        "vbar": 91,
+        "lbar": 114,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 63,
+    "averagePointsPerMediumRace": 79.5,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 74,
+    "remainingShortPoints": 177,
+    "remainingMediumPoints": 201,
+    "remainingLongPoints": 120,
+    "remainingPoints": 498,
+    "predictedFinalPoints": 444,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 69
+    },
+    "totals": {
+      "short": 63,
+      "medium": 159,
+      "long": 0,
+      "grand": 222
+    },
+    "predictedFinalPosition": 112
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "74",
+        "time": "0:30:14",
+        "speed": "19.85 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 91,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "50",
+        "time": "1:17:32",
+        "speed": "19.35 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 100,
+        "lbar": 117,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "64",
+        "time": "1:21:36",
+        "speed": "18.38 Mph",
+        "bar": 69,
+        "barPosition": 52,
+        "vbar": 91,
+        "lbar": 114,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 91,
+    "averagePointsPerMediumRace": 95.5,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 94,
+    "remainingShortPoints": 149,
+    "remainingMediumPoints": 169,
+    "remainingLongPoints": 120,
+    "remainingPoints": 438,
+    "predictedFinalPoints": 564,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 91
+    },
+    "totals": {
+      "short": 91,
+      "medium": 191,
+      "long": 0,
+      "grand": 282
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "74",
+        "time": "0:30:14",
+        "speed": "19.85 Mph",
+        "bar": 63,
+        "barPosition": 58,
+        "vbar": 91,
+        "lbar": 117,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "50",
+        "time": "1:17:32",
+        "speed": "19.35 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 100,
+        "lbar": 117,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "64",
+        "time": "1:21:36",
+        "speed": "18.38 Mph",
+        "bar": 69,
+        "barPosition": 52,
+        "vbar": 91,
+        "lbar": 114,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 117,
+    "averagePointsPerMediumRace": 115.5,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 123,
+    "remainingMediumPoints": 129,
+    "remainingLongPoints": 120,
+    "remainingPoints": 372,
+    "predictedFinalPoints": 696,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 114
+    },
+    "totals": {
+      "short": 117,
+      "medium": 231,
+      "long": 0,
+      "grand": 348
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Sunderland Clarion",
+      "position": "64",
+      "time": "1:21:36",
+      "speed": "18.38 Mph",
+      "bar": 69,
+      "barPosition": 52,
+      "vbar": 91,
+      "lbar": 114,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Sunderland Clarion",
+      "position": "74",
+      "time": "0:30:14",
+      "speed": "19.85 Mph",
+      "bar": 63,
+      "barPosition": 58,
+      "vbar": 91,
+      "lbar": 117,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Sunderland Clarion",
+      "position": "50",
+      "time": "1:17:32",
+      "speed": "19.35 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 100,
+      "lbar": 117,
+      "jbar": 0
+    }
+  ],
+  "position": 135,
+  "barHistory": [
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 69,
+        "long": 0,
+        "grand": 69
+      },
+      "position": 263
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 63,
+        "medium": 69,
+        "long": 0,
+        "grand": 132
+      },
+      "position": 164
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 63,
+        "medium": 69,
+        "long": 0,
+        "grand": 132
+      },
+      "position": 170
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 63,
+        "medium": 69,
+        "long": 0,
+        "grand": 132
+      },
+      "position": 173
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 63,
+        "medium": 159,
+        "long": 0,
+        "grand": 222
+      },
+      "position": 132
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 63,
+        "medium": 159,
+        "long": 0,
+        "grand": 222
+      },
+      "position": 134
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 63,
+        "medium": 159,
+        "long": 0,
+        "grand": 222
+      },
+      "position": 134
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 63,
+        "medium": 159,
+        "long": 0,
+        "grand": 222
+      },
+      "position": 135
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 132,
+      "id": "15305",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 136,
+      "name": "Maddy Hall",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 49.4,
+      "predictedFinalPoints": 269.6666666666667,
+      "grandTotal": 247,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 133,
+      "id": "17702",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 103,
+      "name": "Mike Woodison",
+      "club": "GS Metro",
+      "averagePointsPerRace": 81.66666666666667,
+      "predictedFinalPoints": 490,
+      "grandTotal": 245,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 134,
+      "id": "4590",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 139,
+      "name": "Lee Ager",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 112.5,
+      "predictedFinalPoints": 225,
+      "grandTotal": 225,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 135,
+      "id": "19158",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 112,
+      "name": "Caroline Golightly",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 74,
+      "predictedFinalPoints": 444,
+      "grandTotal": 222,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 69
+    },
+    {
+      "position": 136,
+      "id": "4627",
+      "pointsDirection": -47,
+      "barPredictedFinalPosition": 134,
+      "name": "Joe Applegarth",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 73,
+      "predictedFinalPoints": 298.5,
+      "grandTotal": 219,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 137,
+      "id": "2734",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 114,
+      "name": "Lee Head",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 72.66666666666667,
+      "predictedFinalPoints": 435,
+      "grandTotal": 218,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 134
+    },
+    {
+      "position": 138,
+      "id": "8823",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 140,
+      "name": "James Hadfield",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 108.5,
+      "predictedFinalPoints": 217,
+      "grandTotal": 217,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "id": "3419",
+  "name": "Teri Wishart",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "GS Metro",
+  "inBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "GS Metro",
+        "position": "69",
+        "time": "0:49:54",
+        "speed": "21.64 Mph",
+        "bar": 64,
+        "barPosition": 57,
+        "vbar": 0,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 64,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 64,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 296,
+    "remainingLongPoints": 120,
+    "remainingPoints": 656,
+    "predictedFinalPoints": 64,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 64,
+      "long": 0,
+      "grand": 64
+    },
+    "predictedFinalPosition": 290
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "GS Metro",
+        "position": "69",
+        "time": "0:49:54",
+        "speed": "21.64 Mph",
+        "bar": 64,
+        "barPosition": 57,
+        "vbar": 0,
+        "lbar": 118,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 118,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 242,
+    "remainingLongPoints": 120,
+    "remainingPoints": 602,
+    "predictedFinalPoints": 118,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 118,
+      "long": 0,
+      "grand": 118
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14649",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+      "course": "M18",
+      "distance": 18,
+      "fee": 8.5,
+      "date": "25 March 2017",
+      "club": "GS Metro",
+      "position": "69",
+      "time": "0:49:54",
+      "speed": "21.64 Mph",
+      "bar": 64,
+      "barPosition": 57,
+      "vbar": 0,
+      "lbar": 118,
+      "jbar": 0
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "GS Metro",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "GS Metro",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 291,
+  "barHistory": [
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 94
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 123
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 137
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 148
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 160
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 179
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 192
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 201
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 214
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 229
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 239
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 245
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 254
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 261
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 265
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 273
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 275
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 282
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 283
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 286
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 289
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 289
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 64,
+        "long": 0,
+        "grand": 64
+      },
+      "position": 291
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "2 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 288,
+      "id": "7110",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 288,
+      "name": "Pam Glover",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 67,
+      "predictedFinalPoints": 67,
+      "grandTotal": 67,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 289,
+      "id": "14083",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 289,
+      "name": "Chris Anderson",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 65,
+      "predictedFinalPoints": 65,
+      "grandTotal": 65,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 65
+    },
+    {
+      "position": 290,
+      "id": "1366",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 291,
+      "name": "David Clement",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 64,
+      "predictedFinalPoints": 64,
+      "grandTotal": 64,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 64
+    },
+    {
+      "position": 291,
+      "id": "3419",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 290,
+      "name": "Teri Wishart",
+      "club": "GS Metro",
+      "averagePointsPerRace": 64,
+      "predictedFinalPoints": 64,
+      "grandTotal": 64,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 292,
+      "id": "18012",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 292,
+      "name": "Richard Marshall",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 61,
+      "predictedFinalPoints": 61,
+      "grandTotal": 61,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 293,
+      "id": "9999",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 293,
+      "name": "Wilf Sergant",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 47,
+      "predictedFinalPoints": 47,
+      "grandTotal": 47,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 47
+    },
+    {
+      "position": 294,
+      "id": "3439",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 294,
+      "name": "Matt Ellis",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 44,
+      "predictedFinalPoints": 44,
+      "grandTotal": 44,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 44
+    }
+  ]
+}

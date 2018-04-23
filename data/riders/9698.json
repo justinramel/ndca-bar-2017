@@ -1,0 +1,640 @@
+{
+  "id": "9698",
+  "name": "Tracey Sample",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Breeze Bikes RT",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "34",
+        "time": "0:30:06",
+        "speed": "19.93 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 105,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "42",
+        "time": "0:40:11",
+        "speed": "19.41 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 101,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 89.5,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 89.5,
+    "remainingShortPoints": 61,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 541,
+    "predictedFinalPoints": 179,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 179,
+      "medium": 0,
+      "long": 0,
+      "grand": 179
+    },
+    "predictedFinalPosition": 163
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "34",
+        "time": "0:30:06",
+        "speed": "19.93 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 105,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "42",
+        "time": "0:40:11",
+        "speed": "19.41 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 101,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 103,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 103,
+    "remainingShortPoints": 34,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 514,
+    "predictedFinalPoints": 206,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 206,
+      "medium": 0,
+      "long": 0,
+      "grand": 206
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "34",
+        "time": "0:30:06",
+        "speed": "19.93 Mph",
+        "bar": 94,
+        "barPosition": 27,
+        "vbar": 105,
+        "lbar": 120,
+        "jbar": 0
+      },
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "42",
+        "time": "0:40:11",
+        "speed": "19.41 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 101,
+        "lbar": 116,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 4,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 484,
+    "predictedFinalPoints": 236,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 236,
+      "medium": 0,
+      "long": 0,
+      "grand": 236
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14861",
+      "raceCategory": "short",
+      "name": "Houghton Cc",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "23 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "34",
+      "time": "0:30:06",
+      "speed": "19.93 Mph",
+      "bar": 94,
+      "barPosition": 27,
+      "vbar": 105,
+      "lbar": 120,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Breeze Bikes RT",
+      "position": "42",
+      "time": "0:40:11",
+      "speed": "19.41 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 101,
+      "lbar": 116,
+      "jbar": 0
+    }
+  ],
+  "position": 164,
+  "barHistory": [
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 106
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 127
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 139
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 147
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 153
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 160
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 94,
+        "medium": 0,
+        "long": 0,
+        "grand": 94
+      },
+      "position": 168
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 120
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 128
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 136
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 141
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 143
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 143
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 146
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 153
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 155
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 159
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 161
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 162
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 179,
+        "medium": 0,
+        "long": 0,
+        "grand": 179
+      },
+      "position": 164
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 161,
+      "id": "508",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 160,
+      "name": "Terry Fountain",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 162,
+      "id": "2955",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 161,
+      "name": "Neil Foster",
+      "club": "Adept Precision RT",
+      "averagePointsPerRace": 90,
+      "predictedFinalPoints": 180,
+      "grandTotal": 180,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 163,
+      "id": "13678",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 162,
+      "name": "Paul Tyler",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 91
+    },
+    {
+      "position": 164,
+      "id": "9698",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 163,
+      "name": "Tracey Sample",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 179,
+      "grandTotal": 179,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 165,
+      "id": "888",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 164,
+      "name": "Thomas Hordon",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 88.5,
+      "predictedFinalPoints": 177,
+      "grandTotal": 177,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 166,
+      "id": "18842",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 165,
+      "name": "Mrtin Rasmussen",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 88,
+      "predictedFinalPoints": 176,
+      "grandTotal": 176,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 102
+    },
+    {
+      "position": 167,
+      "id": "6577",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 166,
+      "name": "Ben Summers",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 87,
+      "predictedFinalPoints": 174,
+      "grandTotal": 174,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 85
+    }
+  ]
+}

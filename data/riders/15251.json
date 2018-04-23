@@ -1,0 +1,749 @@
+{
+  "id": "15251",
+  "name": "Stephen Knight",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Ryton Tri Club",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Ryton Tri Club",
+        "position": "31",
+        "time": "0:22:13",
+        "speed": "27.01 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Ryton Tri Club",
+        "position": "17",
+        "time": "1:00:59",
+        "speed": "24.60 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Ryton Tri Club",
+        "position": "17",
+        "time": "1:00:17",
+        "speed": "24.88 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Ryton Tri Club",
+        "position": "30",
+        "time": "1:05:12",
+        "speed": "23.01 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "Ryton Tri Club",
+        "position": "22",
+        "time": "1:58:54",
+        "speed": "25.23 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 5,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 95,
+    "averagePointsPerMediumRace": 104,
+    "averagePointsPerLongRace": 104,
+    "averagePointsPerRace": 102.2,
+    "remainingShortPoints": 145,
+    "remainingMediumPoints": 48,
+    "remainingLongPoints": 16,
+    "remainingPoints": 209,
+    "predictedFinalPoints": 606,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 3,
+      "totalPoints": 212
+    },
+    "totals": {
+      "short": 95,
+      "medium": 312,
+      "long": 104,
+      "grand": 511
+    },
+    "predictedFinalPosition": 58
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 3,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 3,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 3,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "Ryton Tri Club",
+      "position": "44",
+      "time": "2:06:45",
+      "speed": "18.93 Mph",
+      "bar": 95,
+      "barPosition": 26,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Ryton Tri Club",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "Ryton Tri Club",
+      "position": "30",
+      "time": "1:05:12",
+      "speed": "23.01 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15392",
+      "raceCategory": "medium",
+      "name": "(B) Houghton Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "25 June 2017",
+      "club": "Ryton Tri Club",
+      "position": "17",
+      "time": "1:00:17",
+      "speed": "24.88 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Ryton Tri Club",
+      "position": "17",
+      "time": "1:00:59",
+      "speed": "24.60 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Ryton Tri Club",
+      "position": "31",
+      "time": "0:22:13",
+      "speed": "27.01 Mph",
+      "bar": 95,
+      "barPosition": 26,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "Ryton Tri Club",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Ryton Tri Club",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15710",
+      "raceCategory": "long",
+      "name": "(B) N & Dca (N&Dca Champs)",
+      "course": "M509",
+      "distance": 50,
+      "fee": 8.5,
+      "date": "06 August 2017",
+      "club": "Ryton Tri Club",
+      "position": "22",
+      "time": "1:58:54",
+      "speed": "25.23 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15741",
+      "raceCategory": "long",
+      "name": "(B) Tyneside Vagabonds Cc (N&Dca Champs)(Cheques To M Reed)",
+      "course": "M100/20",
+      "distance": 100,
+      "fee": 10,
+      "date": "13 August 2017",
+      "club": "Ryton Tri Club",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 66,
+  "barHistory": [
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 95,
+        "grand": 95
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 95,
+        "grand": 95
+      },
+      "position": 146
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 95,
+        "grand": 95
+      },
+      "position": 152
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 95,
+        "grand": 95
+      },
+      "position": 159
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 95,
+        "grand": 95
+      },
+      "position": 167
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 95,
+        "grand": 95
+      },
+      "position": 172
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 95,
+        "grand": 192
+      },
+      "position": 120
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 95,
+        "grand": 192
+      },
+      "position": 129
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 97,
+        "long": 95,
+        "grand": 192
+      },
+      "position": 131
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 204,
+        "long": 95,
+        "grand": 299
+      },
+      "position": 96
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 312,
+        "long": 95,
+        "grand": 407
+      },
+      "position": 69
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 95,
+        "grand": 502
+      },
+      "position": 46
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 95,
+        "grand": 502
+      },
+      "position": 48
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 95,
+        "grand": 502
+      },
+      "position": 54
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 95,
+        "grand": 502
+      },
+      "position": 57
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 104,
+        "grand": 511
+      },
+      "position": 63
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 104,
+        "grand": 511
+      },
+      "position": 64
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 95,
+        "medium": 312,
+        "long": 104,
+        "grand": 511
+      },
+      "position": 66
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "2 x DNS"
+    },
+    {
+      "cssclass": "tag is-dark",
+      "text": "2 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 63,
+      "id": "9761",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 38,
+      "name": "Dan Meggison",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 107.2,
+      "predictedFinalPoints": 644,
+      "grandTotal": 536,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 217
+    },
+    {
+      "position": 64,
+      "id": "4952",
+      "pointsDirection": 4,
+      "barPredictedFinalPosition": 44,
+      "name": "Michael Johnson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 104.6,
+      "predictedFinalPoints": 628,
+      "grandTotal": 523,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 65,
+      "id": "1698",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 43,
+      "name": "Daniel Dixon",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 628,
+      "grandTotal": 520,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 201
+    },
+    {
+      "position": 66,
+      "id": "15251",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 58,
+      "name": "Stephen Knight",
+      "club": "Ryton Tri Club",
+      "averagePointsPerRace": 102.2,
+      "predictedFinalPoints": 606,
+      "grandTotal": 511,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 212
+    },
+    {
+      "position": 67,
+      "id": "1964",
+      "pointsDirection": -1,
+      "barPredictedFinalPosition": 56,
+      "name": "Liam Whitelaw",
+      "club": "Cramlington CC",
+      "averagePointsPerRace": 100.6,
+      "predictedFinalPoints": 607.3333333333334,
+      "grandTotal": 503,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 79
+    },
+    {
+      "position": 68,
+      "id": "6648",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 69,
+      "name": "David Sparrow",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 99.4,
+      "predictedFinalPoints": 583,
+      "grandTotal": 497,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 86
+    },
+    {
+      "position": 69,
+      "id": "2727",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 61,
+      "name": "wayne coates",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 99,
+      "predictedFinalPoints": 597.6666666666666,
+      "grandTotal": 495,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 82
+    }
+  ]
+}

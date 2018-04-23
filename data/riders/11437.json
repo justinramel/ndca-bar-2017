@@ -1,0 +1,819 @@
+{
+  "id": "11437",
+  "name": "James Corfield",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Gosforth RC",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Gosforth RC",
+        "position": "15",
+        "time": "0:38:56",
+        "speed": "21.58 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      },
+      {
+        "eventId": "15161",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 8.5,
+        "date": "28 May 2017",
+        "club": "Gosforth RC",
+        "position": "29",
+        "time": "0:26:28",
+        "speed": "22.44 Mph",
+        "bar": 96,
+        "barPosition": 25,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 118
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "Gosforth RC",
+        "position": "19",
+        "time": "1:19:19",
+        "speed": "20.42 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Gosforth RC",
+        "position": "45",
+        "time": "0:56:00",
+        "speed": "22.50 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 102,
+    "averagePointsPerMediumRace": 95,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 98.5,
+    "remainingShortPoints": 36,
+    "remainingMediumPoints": 170,
+    "remainingLongPoints": 120,
+    "remainingPoints": 326,
+    "predictedFinalPoints": 584,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 204,
+      "medium": 190,
+      "long": 0,
+      "grand": 394
+    },
+    "predictedFinalPosition": 68
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Gosforth RC",
+        "position": "36",
+        "time": "0:23:44",
+        "speed": "22.75 Mph",
+        "bar": 91,
+        "barPosition": 30,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      },
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Gosforth RC",
+        "position": "15",
+        "time": "0:38:56",
+        "speed": "21.58 Mph",
+        "bar": 108,
+        "barPosition": 13,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Gosforth RC",
+        "position": "45",
+        "time": "0:56:00",
+        "speed": "22.50 Mph",
+        "bar": 86,
+        "barPosition": 35,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      },
+      {
+        "eventId": "14700",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M27",
+        "distance": 27,
+        "fee": 8.5,
+        "date": "02 April 2017",
+        "club": "Gosforth RC",
+        "position": "19",
+        "time": "1:19:19",
+        "speed": "20.42 Mph",
+        "bar": 104,
+        "barPosition": 17,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 119
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 119,
+    "averagePointsPerMediumRace": 119,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 119,
+    "remainingShortPoints": 2,
+    "remainingMediumPoints": 2,
+    "remainingLongPoints": 0,
+    "remainingPoints": 4,
+    "predictedFinalPoints": 476,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 238,
+      "medium": 238,
+      "long": 0,
+      "grand": 476
+    }
+  },
+  "races": [
+    {
+      "eventId": "14610",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "18 March 2017",
+      "club": "Gosforth RC",
+      "position": "45",
+      "time": "0:56:00",
+      "speed": "22.50 Mph",
+      "bar": 86,
+      "barPosition": 35,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 119
+    },
+    {
+      "eventId": "14700",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 8.5,
+      "date": "02 April 2017",
+      "club": "Gosforth RC",
+      "position": "19",
+      "time": "1:19:19",
+      "speed": "20.42 Mph",
+      "bar": 104,
+      "barPosition": 17,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 119
+    },
+    {
+      "eventId": "14909",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders (N&Dca Champs)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "30 April 2017",
+      "club": "Gosforth RC",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15161",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 8.5,
+      "date": "28 May 2017",
+      "club": "Gosforth RC",
+      "position": "29",
+      "time": "0:26:28",
+      "speed": "22.44 Mph",
+      "bar": 96,
+      "barPosition": 25,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 118
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Gosforth RC",
+      "position": "36",
+      "time": "0:23:44",
+      "speed": "22.75 Mph",
+      "bar": 91,
+      "barPosition": 30,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 119
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Gosforth RC",
+      "position": "59",
+      "time": "0:24:12",
+      "speed": "24.79 Mph",
+      "bar": 73,
+      "barPosition": 48,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 118
+    },
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Gosforth RC",
+      "position": "15",
+      "time": "0:38:56",
+      "speed": "21.58 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 119
+    }
+  ],
+  "position": 87,
+  "barHistory": [
+    {
+      "eventId": "14610",
+      "date": "18 March 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 86,
+        "long": 0,
+        "grand": 86
+      },
+      "position": 35
+    },
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 86,
+        "long": 0,
+        "grand": 86
+      },
+      "position": 66
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 24
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 42
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 50
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 68
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 77
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 87
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 190,
+        "long": 0,
+        "grand": 190
+      },
+      "position": 97
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 96,
+        "medium": 190,
+        "long": 0,
+        "grand": 286
+      },
+      "position": 61
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 96,
+        "medium": 190,
+        "long": 0,
+        "grand": 286
+      },
+      "position": 67
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 96,
+        "medium": 190,
+        "long": 0,
+        "grand": 286
+      },
+      "position": 74
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 96,
+        "medium": 190,
+        "long": 0,
+        "grand": 286
+      },
+      "position": 82
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 96,
+        "medium": 190,
+        "long": 0,
+        "grand": 286
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 187,
+        "medium": 190,
+        "long": 0,
+        "grand": 377
+      },
+      "position": 63
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 187,
+        "medium": 190,
+        "long": 0,
+        "grand": 377
+      },
+      "position": 70
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 187,
+        "medium": 190,
+        "long": 0,
+        "grand": 377
+      },
+      "position": 74
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 187,
+        "medium": 190,
+        "long": 0,
+        "grand": 377
+      },
+      "position": 78
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 204,
+        "medium": 190,
+        "long": 0,
+        "grand": 394
+      },
+      "position": 76
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 204,
+        "medium": 190,
+        "long": 0,
+        "grand": 394
+      },
+      "position": 81
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 204,
+        "medium": 190,
+        "long": 0,
+        "grand": 394
+      },
+      "position": 84
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 204,
+        "medium": 190,
+        "long": 0,
+        "grand": 394
+      },
+      "position": 86
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 204,
+        "medium": 190,
+        "long": 0,
+        "grand": 394
+      },
+      "position": 87
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 204,
+        "medium": 190,
+        "long": 0,
+        "grand": 394
+      },
+      "position": 87
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 84,
+      "id": "11274",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 119,
+      "name": "Craig Deacon",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 104.5,
+      "predictedFinalPoints": 418,
+      "grandTotal": 418,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 103
+    },
+    {
+      "position": 85,
+      "id": "3926",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 41,
+      "name": "chris burns",
+      "club": "Cestria Cycles Racing Team",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 634,
+      "grandTotal": 416,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 78
+    },
+    {
+      "position": 86,
+      "id": "708",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 59,
+      "name": "Christopher Beaty",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 102.25,
+      "predictedFinalPoints": 606,
+      "grandTotal": 409,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 71
+    },
+    {
+      "position": 87,
+      "id": "11437",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 68,
+      "name": "James Corfield",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 98.5,
+      "predictedFinalPoints": 584,
+      "grandTotal": 394,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 88,
+      "id": "8256",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 71,
+      "name": "Henning Saelzer",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 97,
+      "predictedFinalPoints": 577.3333333333334,
+      "grandTotal": 388,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 90
+    },
+    {
+      "position": 89,
+      "id": "471",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 70,
+      "name": "Gareth Clarke",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 96.5,
+      "predictedFinalPoints": 580.5,
+      "grandTotal": 386,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 97
+    },
+    {
+      "position": 90,
+      "id": "1884",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 125,
+      "name": "Don Speight",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 93.5,
+      "predictedFinalPoints": 374,
+      "grandTotal": 374,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 206
+    }
+  ]
+}

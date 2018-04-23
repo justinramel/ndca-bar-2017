@@ -1,0 +1,549 @@
+{
+  "id": "6348",
+  "name": "Josh Craven",
+  "sex": "Male",
+  "category": "Junior",
+  "club": "Tyneside Vagabonds CC",
+  "inBar": true,
+  "inJBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "23",
+        "time": "0:22:43",
+        "speed": "23.77 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "15017",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 47,
+        "fee": 11,
+        "date": "14 May 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "55",
+        "time": "2:28:28",
+        "speed": "18.99 Mph",
+        "bar": 83,
+        "barPosition": 38,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 102,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 83,
+    "averagePointsPerRace": 92.5,
+    "remainingShortPoints": 138,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 37,
+    "remainingPoints": 535,
+    "predictedFinalPoints": 185,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 102,
+      "medium": 0,
+      "long": 83,
+      "grand": 185
+    },
+    "predictedFinalPosition": 157
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "23",
+        "time": "0:22:43",
+        "speed": "23.77 Mph",
+        "bar": 102,
+        "barPosition": 19,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 120
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 120,
+    "remainingShortPoints": 120,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 360,
+    "predictedFinalPoints": 120,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 120,
+      "medium": 0,
+      "long": 0,
+      "grand": 120
+    }
+  },
+  "races": [
+    {
+      "eventId": "15017",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds Cc (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 47,
+      "fee": 11,
+      "date": "14 May 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "55",
+      "time": "2:28:28",
+      "speed": "18.99 Mph",
+      "bar": 83,
+      "barPosition": 38,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "23",
+      "time": "0:22:43",
+      "speed": "23.77 Mph",
+      "bar": 102,
+      "barPosition": 19,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 120
+    }
+  ],
+  "position": 158,
+  "barHistory": [
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 161
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 169
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 175
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 191
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 200
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 205
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 83,
+        "grand": 83
+      },
+      "position": 210
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 135
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 137
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 147
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 149
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 152
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 154
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 156
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 83,
+        "grand": 185
+      },
+      "position": 158
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 155,
+      "id": "18199",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 155,
+      "name": "Julian MacBride",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 186,
+      "grandTotal": 186,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 156,
+      "id": "5528",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 156,
+      "name": "Michael Hindmarch",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 93,
+      "predictedFinalPoints": 186,
+      "grandTotal": 186,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 157,
+      "id": "2140",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 124,
+      "name": "Charlotte Cooper",
+      "club": "GS Metro",
+      "averagePointsPerRace": 61.666666666666664,
+      "predictedFinalPoints": 380,
+      "grandTotal": 185,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 55
+    },
+    {
+      "position": 158,
+      "id": "6348",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 157,
+      "name": "Josh Craven",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 92.5,
+      "predictedFinalPoints": 185,
+      "grandTotal": 185,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 159,
+      "id": "17976",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 158,
+      "name": "Scott McCance",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 160,
+      "id": "8994",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 159,
+      "name": "Peter Searle",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 91.5,
+      "predictedFinalPoints": 183,
+      "grandTotal": 183,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 161,
+      "id": "508",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 160,
+      "name": "Terry Fountain",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 90.5,
+      "predictedFinalPoints": 181,
+      "grandTotal": 181,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    }
+  ]
+}

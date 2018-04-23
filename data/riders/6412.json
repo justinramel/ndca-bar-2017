@@ -1,0 +1,660 @@
+{
+  "id": "6412",
+  "name": "michael williamson",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "GS Metro",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "GS Metro",
+        "position": "33",
+        "time": "0:29:33",
+        "speed": "20.30 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15378",
+        "raceCategory": "short",
+        "name": "Cestria Cc (Cheques To R Mitford)",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "24 June 2017",
+        "club": "GS Metro",
+        "position": "49",
+        "time": "0:27:11",
+        "speed": "19.87 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15601",
+        "raceCategory": "medium",
+        "name": "Gs Metro",
+        "course": "M26",
+        "distance": 26,
+        "fee": 8.5,
+        "date": "22 July 2017",
+        "club": "GS Metro",
+        "position": "43",
+        "time": "1:30:36",
+        "speed": "17.22 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15334",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "18 June 2017",
+        "club": "GS Metro",
+        "position": "75",
+        "time": "1:13:56",
+        "speed": "20.29 Mph",
+        "bar": 58,
+        "barPosition": 63,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 87.5,
+    "averagePointsPerMediumRace": 72.5,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 80,
+    "remainingShortPoints": 65,
+    "remainingMediumPoints": 215,
+    "remainingLongPoints": 120,
+    "remainingPoints": 400,
+    "predictedFinalPoints": 465,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 175,
+      "medium": 145,
+      "long": 0,
+      "grand": 320
+    },
+    "predictedFinalPosition": 109
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14861",
+      "raceCategory": "short",
+      "name": "Houghton Cc",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "23 April 2017",
+      "club": "GS Metro",
+      "position": "33",
+      "time": "0:29:33",
+      "speed": "20.30 Mph",
+      "bar": 95,
+      "barPosition": 26,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14959",
+      "raceCategory": "long",
+      "name": "Derwentside Cc (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 9.5,
+      "date": "07 May 2017",
+      "club": "GS Metro",
+      "position": "DNF",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "GS Metro",
+      "position": "75",
+      "time": "1:13:56",
+      "speed": "20.29 Mph",
+      "bar": 58,
+      "barPosition": 63,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15378",
+      "raceCategory": "short",
+      "name": "Cestria Cc (Cheques To R Mitford)",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "24 June 2017",
+      "club": "GS Metro",
+      "position": "49",
+      "time": "0:27:11",
+      "speed": "19.87 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15601",
+      "raceCategory": "medium",
+      "name": "Gs Metro",
+      "course": "M26",
+      "distance": 26,
+      "fee": 8.5,
+      "date": "22 July 2017",
+      "club": "GS Metro",
+      "position": "43",
+      "time": "1:30:36",
+      "speed": "17.22 Mph",
+      "bar": 87,
+      "barPosition": 34,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 112,
+  "barHistory": [
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 104
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 126
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 137
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 145
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 151
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 158
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 166
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 171
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 175
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 95,
+        "medium": 58,
+        "long": 0,
+        "grand": 153
+      },
+      "position": 145
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 175,
+        "medium": 58,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 111
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 175,
+        "medium": 58,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 117
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 175,
+        "medium": 58,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 120
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 175,
+        "medium": 58,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 123
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 175,
+        "medium": 58,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 125
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 175,
+        "medium": 145,
+        "long": 0,
+        "grand": 320
+      },
+      "position": 104
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 175,
+        "medium": 145,
+        "long": 0,
+        "grand": 320
+      },
+      "position": 107
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 175,
+        "medium": 145,
+        "long": 0,
+        "grand": 320
+      },
+      "position": 110
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 175,
+        "medium": 145,
+        "long": 0,
+        "grand": 320
+      },
+      "position": 111
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 175,
+        "medium": 145,
+        "long": 0,
+        "grand": 320
+      },
+      "position": 112
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-dark",
+      "text": "1 x DNF"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 109,
+      "id": "11877",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 33,
+      "name": "Thomas Prentice",
+      "club": "GS Metro",
+      "averagePointsPerRace": 108.33333333333333,
+      "predictedFinalPoints": 650,
+      "grandTotal": 325,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 110,
+      "id": "9079",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 133,
+      "name": "Neil cranston",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 80.5,
+      "predictedFinalPoints": 322,
+      "grandTotal": 322,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 111,
+      "id": "6412",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 109,
+      "name": "michael williamson",
+      "club": "GS Metro",
+      "averagePointsPerRace": 80,
+      "predictedFinalPoints": 465,
+      "grandTotal": 320,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 112,
+      "id": "7196",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 116,
+      "name": "Richard Skinner",
+      "club": "Blumilk.com",
+      "averagePointsPerRace": 106.66666666666667,
+      "predictedFinalPoints": 429,
+      "grandTotal": 320,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 113,
+      "id": "9981",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 118,
+      "name": "Tom Whelan",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 106.33333333333333,
+      "predictedFinalPoints": 425.3333333333333,
+      "grandTotal": 319,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 114,
+      "id": "284",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 35,
+      "name": "Anthony Waterston",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 104.66666666666667,
+      "predictedFinalPoints": 647,
+      "grandTotal": 314,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 98
+    },
+    {
+      "position": 115,
+      "id": "2184",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 100,
+      "name": "Bev Martin",
+      "club": "GS Metro",
+      "averagePointsPerRace": 78.5,
+      "predictedFinalPoints": 494,
+      "grandTotal": 314,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 58
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "id": "9973",
+  "name": "Jan Chisholm",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Alnwick Cycling Club",
+  "inBar": true,
+  "inVBar": true,
+  "inLBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "43",
+        "time": "0:41:24",
+        "speed": "18.84 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 100,
+        "lbar": 115,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 84,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 84,
+    "remainingShortPoints": 156,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 636,
+    "predictedFinalPoints": 84,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 84,
+      "medium": 0,
+      "long": 0,
+      "grand": 84
+    },
+    "predictedFinalPosition": 239
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "43",
+        "time": "0:41:24",
+        "speed": "18.84 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 100,
+        "lbar": 115,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 100,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 100,
+    "remainingShortPoints": 140,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 620,
+    "predictedFinalPoints": 100,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 100,
+      "medium": 0,
+      "long": 0,
+      "grand": 100
+    }
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Alnwick Cycling Club",
+        "position": "43",
+        "time": "0:41:24",
+        "speed": "18.84 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 100,
+        "lbar": 115,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 115,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 115,
+    "remainingShortPoints": 125,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 605,
+    "predictedFinalPoints": 115,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 115,
+      "medium": 0,
+      "long": 0,
+      "grand": 115
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Alnwick Cycling Club",
+      "position": "43",
+      "time": "0:41:24",
+      "speed": "18.84 Mph",
+      "bar": 84,
+      "barPosition": 37,
+      "vbar": 100,
+      "lbar": 115,
+      "jbar": 0
+    }
+  ],
+  "position": 240,
+  "barHistory": [
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 199
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 204
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 209
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 213
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 214
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 217
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 221
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 228
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 230
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 234
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 236
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 237
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 84,
+        "medium": 0,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 240
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 237,
+      "id": "11529",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 237,
+      "name": "Helen Richardson",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 85,
+      "predictedFinalPoints": 85,
+      "grandTotal": 85,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 238,
+      "id": "2512",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 238,
+      "name": "Roger Clarke",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 239,
+      "id": "9973",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 239,
+      "name": "Jan Chisholm",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 240,
+      "id": "19467",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 240,
+      "name": "Andrea Clarke",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 241,
+      "id": "7669",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 241,
+      "name": "Paul Morrison",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 84,
+      "predictedFinalPoints": 84,
+      "grandTotal": 84,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 242,
+      "id": "9864",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 243,
+      "name": "Claire Cook",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 83
+    },
+    {
+      "position": 243,
+      "id": "1616",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 242,
+      "name": "Michael Wyngard",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "id": "8831",
+  "name": "Paul Lucas",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Houghton CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Houghton CC",
+        "position": "26",
+        "time": "0:27:07",
+        "speed": "22.13 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Houghton CC",
+        "position": "37",
+        "time": "1:07:41",
+        "speed": "22.16 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 106,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Houghton CC",
+        "position": "44",
+        "time": "1:09:47",
+        "speed": "21.50 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Houghton CC",
+        "position": "46",
+        "time": "1:10:20",
+        "speed": "21.33 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 99,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 100,
+    "averagePointsPerMediumRace": 87,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 90.25,
+    "remainingShortPoints": 140,
+    "remainingMediumPoints": 99,
+    "remainingLongPoints": 120,
+    "remainingPoints": 359,
+    "predictedFinalPoints": 548,
+    "pointsDirection": 1,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 84
+    },
+    "totals": {
+      "short": 100,
+      "medium": 261,
+      "long": 0,
+      "grand": 361
+    },
+    "predictedFinalPosition": 82
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Houghton CC",
+        "position": "26",
+        "time": "0:27:07",
+        "speed": "22.13 Mph",
+        "bar": 100,
+        "barPosition": 21,
+        "vbar": 110,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Houghton CC",
+        "position": "44",
+        "time": "1:09:47",
+        "speed": "21.50 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15392",
+        "raceCategory": "medium",
+        "name": "(B) Houghton Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "25 June 2017",
+        "club": "Houghton CC",
+        "position": "37",
+        "time": "1:07:41",
+        "speed": "22.16 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 106,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Houghton CC",
+        "position": "46",
+        "time": "1:10:20",
+        "speed": "21.33 Mph",
+        "bar": 84,
+        "barPosition": 37,
+        "vbar": 99,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 3,
+    "longCount": 0,
+    "allCount": 4,
+    "complete": false,
+    "averagePointsPerShortRace": 110,
+    "averagePointsPerMediumRace": 104,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 105.5,
+    "remainingShortPoints": 130,
+    "remainingMediumPoints": 48,
+    "remainingLongPoints": 120,
+    "remainingPoints": 298,
+    "predictedFinalPoints": 636,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 99
+    },
+    "totals": {
+      "short": 110,
+      "medium": 312,
+      "long": 0,
+      "grand": 422
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14861",
+      "raceCategory": "short",
+      "name": "Houghton Cc",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "23 April 2017",
+      "club": "Houghton CC",
+      "position": "26",
+      "time": "0:27:07",
+      "speed": "22.13 Mph",
+      "bar": 100,
+      "barPosition": 21,
+      "vbar": 110,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "Houghton CC",
+      "position": "44",
+      "time": "1:09:47",
+      "speed": "21.50 Mph",
+      "bar": 87,
+      "barPosition": 34,
+      "vbar": 107,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15392",
+      "raceCategory": "medium",
+      "name": "(B) Houghton Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "25 June 2017",
+      "club": "Houghton CC",
+      "position": "37",
+      "time": "1:07:41",
+      "speed": "22.16 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 106,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Houghton CC",
+      "position": "46",
+      "time": "1:10:20",
+      "speed": "21.33 Mph",
+      "bar": 84,
+      "barPosition": 37,
+      "vbar": 99,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Houghton CC",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 92,
+  "barHistory": [
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 96
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 119
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 129
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 145
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 151
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 157
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 100,
+        "medium": 0,
+        "long": 0,
+        "grand": 100
+      },
+      "position": 159
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 100,
+        "medium": 87,
+        "long": 0,
+        "grand": 187
+      },
+      "position": 122
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 100,
+        "medium": 87,
+        "long": 0,
+        "grand": 187
+      },
+      "position": 131
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 100,
+        "medium": 87,
+        "long": 0,
+        "grand": 187
+      },
+      "position": 134
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 100,
+        "medium": 177,
+        "long": 0,
+        "grand": 277
+      },
+      "position": 103
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 76
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 80
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 80
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 85
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 87
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 90
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 91
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 100,
+        "medium": 261,
+        "long": 0,
+        "grand": 361
+      },
+      "position": 92
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 89,
+      "id": "471",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 70,
+      "name": "Gareth Clarke",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 96.5,
+      "predictedFinalPoints": 580.5,
+      "grandTotal": 386,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 97
+    },
+    {
+      "position": 90,
+      "id": "1884",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 125,
+      "name": "Don Speight",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 93.5,
+      "predictedFinalPoints": 374,
+      "grandTotal": 374,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 206
+    },
+    {
+      "position": 91,
+      "id": "14110",
+      "pointsDirection": -36,
+      "barPredictedFinalPosition": 83,
+      "name": "Shaun Brannan",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 92.75,
+      "predictedFinalPoints": 543.3333333333334,
+      "grandTotal": 371,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 73
+    },
+    {
+      "position": 92,
+      "id": "8831",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 82,
+      "name": "Paul Lucas",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 90.25,
+      "predictedFinalPoints": 548,
+      "grandTotal": 361,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 84
+    },
+    {
+      "position": 93,
+      "id": "4354",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 107,
+      "name": "Tim Wilcock",
+      "club": "GS Metro",
+      "averagePointsPerRace": 119.66666666666667,
+      "predictedFinalPoints": 479,
+      "grandTotal": 359,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 119
+    },
+    {
+      "position": 94,
+      "id": "6444",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 86,
+      "name": "Mark Tully",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 89.75,
+      "predictedFinalPoints": 537.3333333333334,
+      "grandTotal": 359,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 95,
+      "id": "9402",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 126,
+      "name": "ROY PATTINSON",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 89.5,
+      "predictedFinalPoints": 358,
+      "grandTotal": 358,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

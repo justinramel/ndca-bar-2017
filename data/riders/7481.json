@@ -1,0 +1,404 @@
+{
+  "id": "7481",
+  "name": "Gavin Husband",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Gosforth RC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Gosforth RC",
+        "position": "48",
+        "time": "1:11:03",
+        "speed": "21.11 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 98,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 82,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 82,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 278,
+    "remainingLongPoints": 120,
+    "remainingPoints": 638,
+    "predictedFinalPoints": 82,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 82
+    },
+    "totals": {
+      "short": 0,
+      "medium": 82,
+      "long": 0,
+      "grand": 82
+    },
+    "predictedFinalPosition": 248
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15524",
+        "raceCategory": "medium",
+        "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "09 July 2017",
+        "club": "Gosforth RC",
+        "position": "48",
+        "time": "1:11:03",
+        "speed": "21.11 Mph",
+        "bar": 82,
+        "barPosition": 39,
+        "vbar": 98,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 98,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 98,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 262,
+    "remainingLongPoints": 120,
+    "remainingPoints": 622,
+    "predictedFinalPoints": 98,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 98
+    },
+    "totals": {
+      "short": 0,
+      "medium": 98,
+      "long": 0,
+      "grand": 98
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15524",
+      "raceCategory": "medium",
+      "name": "(B) Gosforth Rc (N&Dca Champs)(Cheques To Gosforth Rc)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "09 July 2017",
+      "club": "Gosforth RC",
+      "position": "48",
+      "time": "1:11:03",
+      "speed": "21.11 Mph",
+      "bar": 82,
+      "barPosition": 39,
+      "vbar": 98,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 247,
+  "barHistory": [
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 222
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 226
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 234
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 236
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 240
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 243
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 244
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 82,
+        "long": 0,
+        "grand": 82
+      },
+      "position": 247
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 244,
+      "id": "10053",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 244,
+      "name": "Paul Borrowdale",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 245,
+      "id": "16536",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 245,
+      "name": "Adele Armitage",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 246,
+      "id": "17943",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 246,
+      "name": "Dean Taylor",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 83,
+      "predictedFinalPoints": 83,
+      "grandTotal": 83,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 247,
+      "id": "7481",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 248,
+      "name": "Gavin Husband",
+      "club": "Gosforth RC",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 82
+    },
+    {
+      "position": 248,
+      "id": "8468",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 247,
+      "name": "Richard Nichol",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 249,
+      "id": "3264",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 249,
+      "name": "Marie Dyizfowicz",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 82,
+      "predictedFinalPoints": 82,
+      "grandTotal": 82,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 250,
+      "id": "7628",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 250,
+      "name": "Matthew Wells",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 81,
+      "predictedFinalPoints": 81,
+      "grandTotal": 81,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

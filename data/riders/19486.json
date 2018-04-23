@@ -1,0 +1,490 @@
+{
+  "id": "19486",
+  "name": "Mark Whaley",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Blaydon CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Blaydon CC",
+        "position": "37",
+        "time": "0:45:39",
+        "speed": "18.40 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Blaydon CC",
+        "position": "20",
+        "time": "0:56:28",
+        "speed": "22.31 Mph",
+        "bar": 105,
+        "barPosition": 16,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Blaydon CC",
+        "position": "31",
+        "time": "1:04:58",
+        "speed": "23.09 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 88,
+    "averagePointsPerMediumRace": 104,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 98.66666666666667,
+    "remainingShortPoints": 152,
+    "remainingMediumPoints": 152,
+    "remainingLongPoints": 120,
+    "remainingPoints": 424,
+    "predictedFinalPoints": 592,
+    "pointsDirection": -29,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 88,
+      "medium": 208,
+      "long": 0,
+      "grand": 296
+    },
+    "predictedFinalPosition": 64
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Blaydon CC",
+        "position": "37",
+        "time": "0:45:39",
+        "speed": "18.40 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 107,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15766",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "19 August 2017",
+        "club": "Blaydon CC",
+        "position": "20",
+        "time": "0:56:28",
+        "speed": "22.31 Mph",
+        "bar": 105,
+        "barPosition": 16,
+        "vbar": 115,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Blaydon CC",
+        "position": "31",
+        "time": "1:04:58",
+        "speed": "23.09 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 109,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "averagePointsPerShortRace": 107,
+    "averagePointsPerMediumRace": 112,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 110.33333333333333,
+    "remainingShortPoints": 133,
+    "remainingMediumPoints": 136,
+    "remainingLongPoints": 120,
+    "remainingPoints": 389,
+    "predictedFinalPoints": 662,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 107,
+      "medium": 224,
+      "long": 0,
+      "grand": 331
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Blaydon CC",
+      "position": "37",
+      "time": "0:45:39",
+      "speed": "18.40 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 107,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Blaydon CC",
+      "position": "31",
+      "time": "1:04:58",
+      "speed": "23.09 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 109,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15766",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "19 August 2017",
+      "club": "Blaydon CC",
+      "position": "20",
+      "time": "0:56:28",
+      "speed": "22.31 Mph",
+      "bar": 105,
+      "barPosition": 16,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 120,
+  "barHistory": [
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 88,
+        "medium": 0,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 214
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 88,
+        "medium": 0,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 216
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 88,
+        "medium": 103,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 146
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 88,
+        "medium": 103,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 148
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 88,
+        "medium": 103,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 149
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 88,
+        "medium": 208,
+        "long": 0,
+        "grand": 296
+      },
+      "position": 120
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 117,
+      "id": "3648",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 50,
+      "name": "michael openshaw",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 103.66666666666667,
+      "predictedFinalPoints": 619,
+      "grandTotal": 311,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 101
+    },
+    {
+      "position": 118,
+      "id": "3218",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 52,
+      "name": "Mal Gray",
+      "club": "Cestria C.C.",
+      "averagePointsPerRace": 100.33333333333333,
+      "predictedFinalPoints": 617,
+      "grandTotal": 301,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 119,
+      "id": "9296",
+      "pointsDirection": 1,
+      "barPredictedFinalPosition": 80,
+      "name": "Kevin Hall",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 99.66666666666667,
+      "predictedFinalPoints": 548,
+      "grandTotal": 299,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 57
+    },
+    {
+      "position": 120,
+      "id": "19486",
+      "pointsDirection": -29,
+      "barPredictedFinalPosition": 64,
+      "name": "Mark Whaley",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 98.66666666666667,
+      "predictedFinalPoints": 592,
+      "grandTotal": 296,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 121,
+      "id": "6142",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 66,
+      "name": "John Paul Herron",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 98,
+      "predictedFinalPoints": 588,
+      "grandTotal": 294,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 122,
+      "id": "6215",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 74,
+      "name": "Dean Madden",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 96.66666666666667,
+      "predictedFinalPoints": 570,
+      "grandTotal": 290,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 212
+    },
+    {
+      "position": 123,
+      "id": "827",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 81,
+      "name": "Paul Whitehill",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 93.66666666666667,
+      "predictedFinalPoints": 548,
+      "grandTotal": 281,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 81
+    }
+  ]
+}

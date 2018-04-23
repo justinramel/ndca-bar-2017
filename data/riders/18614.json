@@ -1,0 +1,469 @@
+{
+  "id": "18614",
+  "name": "Thomas Hutchinson",
+  "sex": "Male",
+  "category": "Espoir",
+  "club": "Tyneside Vagabonds CC",
+  "inBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "15587",
+        "raceCategory": "short",
+        "name": "Blaydon Cc",
+        "course": "M14",
+        "distance": 14,
+        "fee": 8.5,
+        "date": "15 July 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "17",
+        "time": "0:39:24",
+        "speed": "21.32 Mph",
+        "bar": 106,
+        "barPosition": 15,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15260",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "11 June 2017",
+        "club": "Tyneside Vagabonds CC",
+        "position": "29",
+        "time": "1:04:16",
+        "speed": "23.34 Mph",
+        "bar": 98,
+        "barPosition": 23,
+        "vbar": 0,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 106,
+    "averagePointsPerMediumRace": 98,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 102,
+    "remainingShortPoints": 134,
+    "remainingMediumPoints": 262,
+    "remainingLongPoints": 120,
+    "remainingPoints": 516,
+    "predictedFinalPoints": 204,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 106,
+      "medium": 98,
+      "long": 0,
+      "grand": 204
+    },
+    "predictedFinalPosition": 143
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15260",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "11 June 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "29",
+      "time": "1:04:16",
+      "speed": "23.34 Mph",
+      "bar": 98,
+      "barPosition": 23,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15587",
+      "raceCategory": "short",
+      "name": "Blaydon Cc",
+      "course": "M14",
+      "distance": 14,
+      "fee": 8.5,
+      "date": "15 July 2017",
+      "club": "Tyneside Vagabonds CC",
+      "position": "17",
+      "time": "0:39:24",
+      "speed": "21.32 Mph",
+      "bar": 106,
+      "barPosition": 15,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 142,
+  "barHistory": [
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 169
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 172
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 176
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 177
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 180
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 98,
+        "long": 0,
+        "grand": 98
+      },
+      "position": 186
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 106,
+        "medium": 98,
+        "long": 0,
+        "grand": 204
+      },
+      "position": 134
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 106,
+        "medium": 98,
+        "long": 0,
+        "grand": 204
+      },
+      "position": 137
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 106,
+        "medium": 98,
+        "long": 0,
+        "grand": 204
+      },
+      "position": 138
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 106,
+        "medium": 98,
+        "long": 0,
+        "grand": 204
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 106,
+        "medium": 98,
+        "long": 0,
+        "grand": 204
+      },
+      "position": 140
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 106,
+        "medium": 98,
+        "long": 0,
+        "grand": 204
+      },
+      "position": 142
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 139,
+      "id": "17838",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 141,
+      "name": "Timothy Brown",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 106,
+      "predictedFinalPoints": 212,
+      "grandTotal": 212,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 140,
+      "id": "2311",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 142,
+      "name": "Paul Rider",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 105.5,
+      "predictedFinalPoints": 211,
+      "grandTotal": 211,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 141,
+      "id": "4314",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 135,
+      "name": "Robert Newton",
+      "club": "Wansbeck CC",
+      "averagePointsPerRace": 69.33333333333333,
+      "predictedFinalPoints": 280.5,
+      "grandTotal": 208,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 142,
+      "id": "18614",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 143,
+      "name": "Thomas Hutchinson",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 102,
+      "predictedFinalPoints": 204,
+      "grandTotal": 204,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 143,
+      "id": "858",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 144,
+      "name": "Eoin Gormley",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 101.5,
+      "predictedFinalPoints": 203,
+      "grandTotal": 203,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 144,
+      "id": "18333",
+      "pointsDirection": -52,
+      "barPredictedFinalPosition": 145,
+      "name": "Peter Stokoe",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 202,
+      "grandTotal": 202,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 145,
+      "id": "6804",
+      "pointsDirection": 2,
+      "barPredictedFinalPosition": 146,
+      "name": "Russell Bayliss",
+      "club": "GS Metro",
+      "averagePointsPerRace": 101,
+      "predictedFinalPoints": 202,
+      "grandTotal": 202,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

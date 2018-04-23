@@ -1,0 +1,356 @@
+{
+  "id": "14938",
+  "name": "Neil Moore",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Sunderland Clarion",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "41",
+        "time": "1:11:25",
+        "speed": "21.00 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 101,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 95,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 265,
+    "remainingLongPoints": 120,
+    "remainingPoints": 625,
+    "predictedFinalPoints": 95,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 95,
+      "long": 0,
+      "grand": 95
+    },
+    "predictedFinalPosition": 210
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Sunderland Clarion",
+        "position": "41",
+        "time": "1:11:25",
+        "speed": "21.00 Mph",
+        "bar": 95,
+        "barPosition": 26,
+        "vbar": 101,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 101,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 259,
+    "remainingLongPoints": 120,
+    "remainingPoints": 619,
+    "predictedFinalPoints": 101,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 101,
+      "long": 0,
+      "grand": 101
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Sunderland Clarion",
+      "position": "41",
+      "time": "1:11:25",
+      "speed": "21.00 Mph",
+      "bar": 95,
+      "barPosition": 26,
+      "vbar": 101,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 211,
+  "barHistory": [
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 205
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 206
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 208
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 211
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 208,
+      "id": "2845",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 208,
+      "name": "Mark Breeze",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 209,
+      "id": "18579",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 209,
+      "name": "Sue Rigby",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 96,
+      "predictedFinalPoints": 96,
+      "grandTotal": 96,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 210,
+      "id": "14938",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 210,
+      "name": "Neil Moore",
+      "club": "Sunderland Clarion",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 211,
+      "id": "16388",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 211,
+      "name": "Carl Tuer",
+      "club": "Alnwick Cycling Club",
+      "averagePointsPerRace": 95,
+      "predictedFinalPoints": 95,
+      "grandTotal": 95,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 212,
+      "id": "18403",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 213,
+      "name": "Graeme Kirton",
+      "club": "South Shields Velo Cycling Club",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 94
+    },
+    {
+      "position": 213,
+      "id": "6306",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 212,
+      "name": "BRENDON JACKSON",
+      "club": "Allen Valley Velo",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 214,
+      "id": "539",
+      "pointsDirection": 3,
+      "barPredictedFinalPosition": 214,
+      "name": "Ian Doughty",
+      "club": "Barnesbury CC",
+      "averagePointsPerRace": 94,
+      "predictedFinalPoints": 94,
+      "grandTotal": 94,
+      "complete": false,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "id": "317",
+  "name": "Phil Hall",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Breeze Bikes RT",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "14861",
+        "raceCategory": "short",
+        "name": "Houghton Cc",
+        "course": "M1010B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "23 April 2017",
+        "club": "Breeze Bikes RT",
+        "position": "1",
+        "time": "0:21:43",
+        "speed": "27.63 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "2",
+        "time": "0:28:54",
+        "speed": "26.99 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Breeze Bikes RT",
+        "position": "2",
+        "time": "0:55:53",
+        "speed": "26.84 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Breeze Bikes RT",
+        "position": "6",
+        "time": "0:48:29",
+        "speed": "25.99 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Breeze Bikes RT",
+        "position": "4",
+        "time": "0:39:41",
+        "speed": "27.22 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "Breeze Bikes RT",
+        "position": "4",
+        "time": "1:50:29",
+        "speed": "27.15 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 119.5,
+    "averagePointsPerMediumRace": 118,
+    "averagePointsPerLongRace": 118,
+    "averagePointsPerRace": 118.5,
+    "remainingShortPoints": 1,
+    "remainingMediumPoints": 6,
+    "remainingLongPoints": 2,
+    "remainingPoints": 9,
+    "predictedFinalPoints": 711,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 118
+    },
+    "totals": {
+      "short": 239,
+      "medium": 354,
+      "long": 118,
+      "grand": 711
+    },
+    "predictedFinalPosition": 3
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "15232",
+        "raceCategory": "short",
+        "name": "Alnwick Cc",
+        "course": "M13",
+        "distance": 13,
+        "fee": 8.5,
+        "date": "10 June 2017",
+        "club": "Breeze Bikes RT",
+        "position": "2",
+        "time": "0:28:54",
+        "speed": "26.99 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "15534",
+        "raceCategory": "short",
+        "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 8.5,
+        "date": "12 July 2017",
+        "club": "Breeze Bikes RT",
+        "position": "8",
+        "time": "0:20:43",
+        "speed": "28.96 Mph",
+        "bar": 115,
+        "barPosition": 6,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "15675",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion Cc",
+        "course": "M254",
+        "distance": 25,
+        "fee": 8.5,
+        "date": "30 July 2017",
+        "club": "Breeze Bikes RT",
+        "position": "2",
+        "time": "0:55:53",
+        "speed": "26.84 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 120,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14610",
+        "raceCategory": "medium",
+        "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+        "course": "M21",
+        "distance": 21,
+        "fee": 8.5,
+        "date": "18 March 2017",
+        "club": "Breeze Bikes RT",
+        "position": "6",
+        "time": "0:48:29",
+        "speed": "25.99 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      },
+      {
+        "eventId": "14649",
+        "raceCategory": "medium",
+        "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+        "course": "M18",
+        "distance": 18,
+        "fee": 8.5,
+        "date": "25 March 2017",
+        "club": "Breeze Bikes RT",
+        "position": "4",
+        "time": "0:39:41",
+        "speed": "27.22 Mph",
+        "bar": 117,
+        "barPosition": 4,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "15710",
+        "raceCategory": "long",
+        "name": "(B) N & Dca (N&Dca Champs)",
+        "course": "M509",
+        "distance": 50,
+        "fee": 8.5,
+        "date": "06 August 2017",
+        "club": "Breeze Bikes RT",
+        "position": "4",
+        "time": "1:50:29",
+        "speed": "27.15 Mph",
+        "bar": 118,
+        "barPosition": 3,
+        "vbar": 119,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 119.33333333333333,
+    "averagePointsPerLongRace": 119,
+    "averagePointsPerRace": 119.5,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 2,
+    "remainingLongPoints": 1,
+    "remainingPoints": 3,
+    "predictedFinalPoints": 717,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 119
+    },
+    "totals": {
+      "short": 240,
+      "medium": 358,
+      "long": 119,
+      "grand": 717
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": true,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 240,
+    "remainingLongPoints": 0,
+    "remainingPoints": 480,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "14610",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (150 Riders)(Cheques To B Bayne)",
+      "course": "M21",
+      "distance": 21,
+      "fee": 8.5,
+      "date": "18 March 2017",
+      "club": "Breeze Bikes RT",
+      "position": "6",
+      "time": "0:48:29",
+      "speed": "25.99 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14649",
+      "raceCategory": "medium",
+      "name": "Cramlington Cc (Cheques To Keith Sibbald)",
+      "course": "M18",
+      "distance": 18,
+      "fee": 8.5,
+      "date": "25 March 2017",
+      "club": "Breeze Bikes RT",
+      "position": "4",
+      "time": "0:39:41",
+      "speed": "27.22 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14700",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders",
+      "course": "M27",
+      "distance": 27,
+      "fee": 8.5,
+      "date": "02 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "4",
+      "time": "1:12:56",
+      "speed": "22.21 Mph",
+      "bar": 117,
+      "barPosition": 4,
+      "vbar": 118,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "14861",
+      "raceCategory": "short",
+      "name": "Houghton Cc",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "23 April 2017",
+      "club": "Breeze Bikes RT",
+      "position": "1",
+      "time": "0:21:43",
+      "speed": "27.63 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15232",
+      "raceCategory": "short",
+      "name": "Alnwick Cc",
+      "course": "M13",
+      "distance": 13,
+      "fee": 8.5,
+      "date": "10 June 2017",
+      "club": "Breeze Bikes RT",
+      "position": "2",
+      "time": "0:28:54",
+      "speed": "26.99 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15334",
+      "raceCategory": "medium",
+      "name": "Barnesbury Cc (Cheques To Sharon Dyson)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "18 June 2017",
+      "club": "Breeze Bikes RT",
+      "position": "9",
+      "time": "0:55:16",
+      "speed": "27.14 Mph",
+      "bar": 115,
+      "barPosition": 6,
+      "vbar": 115,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15534",
+      "raceCategory": "short",
+      "name": "Barnesbury Cc (80 Riders)(Cheques To B Bayne)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 8.5,
+      "date": "12 July 2017",
+      "club": "Breeze Bikes RT",
+      "position": "8",
+      "time": "0:20:43",
+      "speed": "28.96 Mph",
+      "bar": 115,
+      "barPosition": 6,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15675",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion Cc",
+      "course": "M254",
+      "distance": 25,
+      "fee": 8.5,
+      "date": "30 July 2017",
+      "club": "Breeze Bikes RT",
+      "position": "2",
+      "time": "0:55:53",
+      "speed": "26.84 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 120,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15710",
+      "raceCategory": "long",
+      "name": "(B) N & Dca (N&Dca Champs)",
+      "course": "M509",
+      "distance": 50,
+      "fee": 8.5,
+      "date": "06 August 2017",
+      "club": "Breeze Bikes RT",
+      "position": "4",
+      "time": "1:50:29",
+      "speed": "27.15 Mph",
+      "bar": 118,
+      "barPosition": 3,
+      "vbar": 119,
+      "lbar": 0,
+      "jbar": 0
+    },
+    {
+      "eventId": "15741",
+      "raceCategory": "long",
+      "name": "(B) Tyneside Vagabonds Cc (N&Dca Champs)(Cheques To M Reed)",
+      "course": "M100/20",
+      "distance": 100,
+      "fee": 10,
+      "date": "13 August 2017",
+      "club": "Breeze Bikes RT",
+      "position": "DNS",
+      "time": "",
+      "speed": "NaN Mph",
+      "bar": 0,
+      "barPosition": 121,
+      "vbar": 0,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 3,
+  "barHistory": [
+    {
+      "eventId": "14610",
+      "date": "18 March 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 118,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 3
+    },
+    {
+      "eventId": "14649",
+      "date": "25 March 2017",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 235,
+        "long": 0,
+        "grand": 235
+      },
+      "position": 1
+    },
+    {
+      "eventId": "14700",
+      "date": "02 April 2017",
+      "name": "M27",
+      "points": {
+        "short": 0,
+        "medium": 352,
+        "long": 0,
+        "grand": 352
+      },
+      "position": 1
+    },
+    {
+      "eventId": "14821",
+      "date": "22 April 2017",
+      "name": "M21",
+      "points": {
+        "short": 0,
+        "medium": 352,
+        "long": 0,
+        "grand": 352
+      },
+      "position": 2
+    },
+    {
+      "eventId": "14861",
+      "date": "23 April 2017",
+      "name": "M1010B",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 1
+    },
+    {
+      "eventId": "14909",
+      "date": "30 April 2017",
+      "name": "M102B",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 1
+    },
+    {
+      "eventId": "14959",
+      "date": "07 May 2017",
+      "name": "M40",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 7
+    },
+    {
+      "eventId": "15017",
+      "date": "14 May 2017",
+      "name": "M47",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 10
+    },
+    {
+      "eventId": "15075",
+      "date": "20 May 2017",
+      "name": "M102B",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 14
+    },
+    {
+      "eventId": "15161",
+      "date": "28 May 2017",
+      "name": "M107",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 17
+    },
+    {
+      "eventId": "15202",
+      "date": "04 June 2017",
+      "name": "M24.8",
+      "points": {
+        "short": 120,
+        "medium": 352,
+        "long": 0,
+        "grand": 472
+      },
+      "position": 23
+    },
+    {
+      "eventId": "15232",
+      "date": "10 June 2017",
+      "name": "M13",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 10
+    },
+    {
+      "eventId": "15260",
+      "date": "11 June 2017",
+      "name": "M2511",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 14
+    },
+    {
+      "eventId": "15334",
+      "date": "18 June 2017",
+      "name": "M2510",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 23
+    },
+    {
+      "eventId": "15378",
+      "date": "24 June 2017",
+      "name": "M9",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 25
+    },
+    {
+      "eventId": "15392",
+      "date": "25 June 2017",
+      "name": "M254",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 29
+    },
+    {
+      "eventId": "15524",
+      "date": "09 July 2017",
+      "name": "M2511",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 33
+    },
+    {
+      "eventId": "15534",
+      "date": "12 July 2017",
+      "name": "M102B",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 36
+    },
+    {
+      "eventId": "15587",
+      "date": "15 July 2017",
+      "name": "M14",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 37
+    },
+    {
+      "eventId": "15601",
+      "date": "22 July 2017",
+      "name": "M26",
+      "points": {
+        "short": 239,
+        "medium": 352,
+        "long": 0,
+        "grand": 591
+      },
+      "position": 43
+    },
+    {
+      "eventId": "15675",
+      "date": "30 July 2017",
+      "name": "M254",
+      "points": {
+        "short": 239,
+        "medium": 354,
+        "long": 0,
+        "grand": 593
+      },
+      "position": 45
+    },
+    {
+      "eventId": "15710",
+      "date": "06 August 2017",
+      "name": "M509",
+      "points": {
+        "short": 239,
+        "medium": 354,
+        "long": 118,
+        "grand": 711
+      },
+      "position": 3
+    },
+    {
+      "eventId": "15741",
+      "date": "13 August 2017",
+      "name": "M100/20",
+      "points": {
+        "short": 239,
+        "medium": 354,
+        "long": 118,
+        "grand": 711
+      },
+      "position": 3
+    },
+    {
+      "eventId": "15766",
+      "date": "19 August 2017",
+      "name": "M21",
+      "points": {
+        "short": 239,
+        "medium": 354,
+        "long": 118,
+        "grand": 711
+      },
+      "position": 3
+    }
+  ],
+  "tags": [
+    {
+      "cssclass": "tag is-warning",
+      "text": "1 x 1st BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x 2nd BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "2 x 3rd BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "7 x Top 5 BAR"
+    },
+    {
+      "cssclass": "tag is-warning",
+      "text": "9 x Top 10 BAR"
+    },
+    {
+      "cssclass": "tag is-black",
+      "text": "1 x DNS"
+    }
+  ],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "3625",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 1,
+      "name": "Adam Wild",
+      "club": "Tyneside Vagabonds CC",
+      "averagePointsPerRace": 119.83333333333333,
+      "predictedFinalPoints": 719,
+      "grandTotal": 719,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 239
+    },
+    {
+      "position": 2,
+      "id": "16809",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 2,
+      "name": "Collin Humphrey",
+      "club": "Derwentside CC",
+      "averagePointsPerRace": 118.66666666666667,
+      "predictedFinalPoints": 712,
+      "grandTotal": 712,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 237
+    },
+    {
+      "position": 3,
+      "id": "317",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 3,
+      "name": "Phil Hall",
+      "club": "Breeze Bikes RT",
+      "averagePointsPerRace": 118.5,
+      "predictedFinalPoints": 711,
+      "grandTotal": 711,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 118
+    },
+    {
+      "position": 4,
+      "id": "6436",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 4,
+      "name": "Ross Walton",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 118.16666666666667,
+      "predictedFinalPoints": 709,
+      "grandTotal": 709,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 345
+    },
+    {
+      "position": 5,
+      "id": "1033",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 5,
+      "name": "Steven Craggs",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117.16666666666667,
+      "predictedFinalPoints": 703,
+      "grandTotal": 703,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 218
+    },
+    {
+      "position": 6,
+      "id": "1502",
+      "pointsDirection": 0,
+      "barPredictedFinalPosition": 6,
+      "name": "Justin Ramel",
+      "club": "Blaydon CC",
+      "averagePointsPerRace": 117,
+      "predictedFinalPoints": 702,
+      "grandTotal": 702,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 219
+    },
+    {
+      "position": 7,
+      "id": "866",
+      "pointsDirection": -1,
+      "barPredictedFinalPosition": 7,
+      "name": "Colin Atkinson",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 116.16666666666667,
+      "predictedFinalPoints": 697,
+      "grandTotal": 697,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 205
+    }
+  ]
+}
